@@ -9,8 +9,8 @@
 title: The Capable One
 email: jkenton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Imagine if you can, a young boy is born in South Dakota (strains credulity, I know!). Then imagine that he moves to Iowa (certainly fiction territory, already). He goes to school a really long time. Then he moves to Maryland (the 7th state), and he lives there a long time, too! Well, that's just the unbelievable part!
-baseurl: "/CapableOne" # the subpath of your site, e.g. /blog
+ A kid from South Dakota, Minnesota, Iowa, Switzerland, Iowa, Maryland, Who Knows Where
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jkenton
 github_username:  jkenton
