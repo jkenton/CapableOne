@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Good Morning!!
-date:   2019-05-28 10:00:00 -0400
+title:  "Good Morning!!"
+date:   2019-05-28 07:00:00 -0400
 ---
 
 It's 6:30 AM. Here's what morning looks like:
