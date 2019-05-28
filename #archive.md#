@@ -15,7 +15,7 @@ This is the archive page for the site. Just to keep things tidy.
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
-       <li><a href="{{site.baseurl}}{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+       <li><a href="{{site.baseu{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
 

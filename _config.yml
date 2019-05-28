@@ -18,3 +18,5 @@ github_username:  jkenton
 # Build settings
 markdown: kramdown
 
+future: false
+
