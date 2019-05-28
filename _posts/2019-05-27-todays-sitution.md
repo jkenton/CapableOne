@@ -1,8 +1,20 @@
 ---
 layout: post
-title:  "Today's Situation"
-date:   2019-05-27 19:39:45 -0400
+title:  "Good Morning!!
+date:   2019-05-28 10:00:00 -0400
 ---
 
-<img src="{{site.baseurl}}/images/pokemon.png">
-Today, I drove around town looking for Pokemon. Champ or Chump?
+It's 6:30 AM. Here's what morning looks like:
+
+1. Wake up. List of stuff I want to do in my mind...
+2. Downstairs to make tea and toast
+3. Feed Dexter
+4. Deal with Toby whining and crying on the stairs until he comes down
+5. Let Toby out
+6. Feed and Water Toby
+7. What was I doing again?
+
+It's 6:45...
+
+Now all the animals are back to sleep...
+
