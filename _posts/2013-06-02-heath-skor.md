@@ -4,6 +4,7 @@ title: "Heath and Skor"
 date: 2013-06-02 00:00:00 -0400
 ---
 
+<img src="{{site.baseurl}}/images/heath-skor.jpeg">
 
 As a younger man, I loved butter toffee (Ok, you got me. I still love butter toffee...). I used to go out of my way to eat Skor bars. I found them delicious.  Nowadays, when someone talks about toffee in an ice cream confection, or the like, it is Heath as the gold standard.
 
