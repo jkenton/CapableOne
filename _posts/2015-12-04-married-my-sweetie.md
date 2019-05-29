@@ -9,13 +9,20 @@ Here are some pics and descriptions of what's going on:
 
 At the time of the ceremony, it was 37F, and raining.
 
+<img src="{{site.baseurl}}/images/jn-bridge1.jpg">
+
+
 Above is the [Cutler Donahoe Bridge](https://en.wikipedia.org/wiki/Cutler%E2%80%93Donahoe_Bridge) currently residing in Winterset County Park, Winterset IA. Aka, the place where we got married! I got there extra early to deploy the lanterns, and to make sure the location was ready for the ceremony.
 
 
 Here is one of the lanterns that we painted, intended to show the path from the parking lot to the bridge. You know, to class up the joint a little!
 
+<img src="{{site.baseurl}}/images/jn-lantern.jpg">
+
 
 Did I mention that it was 37F and raining? This is a great opportunity to show the scarves and hats that everyone wore for the ceremony itself. You will see more of our outfits in later pictures.
+
+<img src="{{site.baseurl}}/images/jn-outfit.jpg">
 
 
 If you have never been to any of the covered bridges of Madison County, there is a bit of a tradition for people to write little messages and graffiti inside the bridge. Someone made this one for Nicki and me. Pretty cool, huh?
