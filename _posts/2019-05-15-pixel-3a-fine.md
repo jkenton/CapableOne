@@ -2,7 +2,7 @@
 layout: post
 title:  "Pixel 3a is a mighty fine phone. First Impressions."
 date:   2019-05-16 12:00:00 -0400
-
+categories: nerdery phones reviews
 ---
 
 

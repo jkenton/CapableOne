@@ -2,6 +2,7 @@
 layout: post
 title: "Heath and Skor"
 date: 2013-06-02 00:00:00 -0400
+categories: food reviews
 ---
 
 <img src="{{site.baseurl}}/images/heath-skor.jpeg">

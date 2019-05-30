@@ -2,7 +2,7 @@
 layout: post
 title: "God made a Farmer by Paul Harvey"
 date: 2015-12-11 00:00:00 -0400
-
+categories: awesome music youtube
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7UBj4Rbq3ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

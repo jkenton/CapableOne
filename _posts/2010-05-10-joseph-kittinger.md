@@ -2,6 +2,7 @@
 layout: post
 title:  Joseph Kittinger
 date: 2010-05-10 
+categories: awesome
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Kittinger-jump.jpg" title="Public Domain File:Kittinger-jump.jpg Created: 16 August 1960">

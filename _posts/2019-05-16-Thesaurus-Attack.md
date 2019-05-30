@@ -2,7 +2,7 @@
 layout: post
 title:  "THESAURUS ATTACK!"
 date:   2019-05-16 12:00:00 -0400
-
+categories: nerdery thinking
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Mad_scientist.svg" title="Attribution: J.J. at the English language Wikipedia">
 

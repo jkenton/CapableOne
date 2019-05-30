@@ -2,6 +2,7 @@
 layout: post
 title: "Need a Word, please!"
 date: 2013-11-12 00:00:00 -0400
+categories: nerdery silly
 ---
 
 <img src="{{site.baseurl}}/images/ambition.jpg" title="swiped from: http://soulpancake.com/conversations/view/108443/dissatisfaction-guaranteed-and-no-money-back.html">

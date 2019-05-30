@@ -2,6 +2,7 @@
 layout: post
 title: "Happy Birthday! To me!"
 date: 2013-08-22 00:00:00 -0400
+categories: awesome
 ---
 
 <img src="{{site.baseurl}}/images/happy-birthday.png">

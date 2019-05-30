@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't get too cute"
 date:   2019-05-19 12:00:00 -0400
-
+categories: emacs nerdery thinking
 ---
 
 
