@@ -12,4 +12,4 @@ I'm not going to fight anyone about this, but it seems like a reconstruction-era
 
 If you would like to learn more about <a href="https://en.wikipedia.org/wiki/R.E.M.">R.E.M.</a>, here you go.
 
-I also recommend you listen to the podcast <a href="https://www.theincomparable.com/ump/48/">Unjustly Malignedx #48 "R.E.M., Early"</a> featuring Merlin Mann.
+I also recommend you listen to the podcast <a href="https://www.theincomparable.com/ump/48/">Unjustly Maligned #48 "R.E.M., Early"</a> featuring Merlin Mann.
