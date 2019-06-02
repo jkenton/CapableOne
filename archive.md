@@ -3,7 +3,12 @@ layout: page
 title: Archive
 permalink: /archive/
 ---
-This is the archive page for the site. Just to keep things tidy.
+This is the archive page for the site. Just to keep things tidy.<br />
+
+I'm moving posts over here from the previous holder. *sigh* It seems to never really stop...
+
+<br /> ENJOY!
+
 
 <section class="archive-post-list">
 
