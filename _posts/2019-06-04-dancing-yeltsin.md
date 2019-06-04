@@ -11,7 +11,7 @@ Make some time to enjoy this:
 
 As paraphrased from <a href="http://www.podtrac.com/pts/redirect.mp3/www.merlinmann.com/storage/rotl/rotl_0339.mp3">ROTL 339 - "Internal Grace"</a>: No matter how drunk you may have been once <sup>1</sup>, you can't have been as drunk as Boris Yeltsin was *ALL THE TIME* <sup>2</sup>
 
-If you would like to learn more about Boris Yeltsin, <a href="https://en.wikipedia.org/wiki/Boris_Yeltsin">here you go</a>
+If you would like to learn more about Boris Yeltsin, <a href="https://en.wikipedia.org/wiki/Boris_Yeltsin">here you go</a>.
 
 <br />1 - Yeah, that *one time* when your friends and relatives expressed some serious concern for your continued well-being.
 <br />2 - Seriously, not close.
