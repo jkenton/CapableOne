@@ -9,7 +9,7 @@ Make some time to enjoy this:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v9YnDirqwT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As paraphrased from ROTL 339: No matter how drunk you may have been once <sup>1</sup>, you can't have been as drunk as Boris Yeltsin was *ALL THE TIME* <sup>2</sup>
+As paraphrased from <a href="http://www.podtrac.com/pts/redirect.mp3/www.merlinmann.com/storage/rotl/rotl_0339.mp3">ROTL 339 - Internal Grace"</a>: No matter how drunk you may have been once <sup>1</sup>, you can't have been as drunk as Boris Yeltsin was *ALL THE TIME* <sup>2</sup>
 
 If you would like to learn more about Boris Yeltsin, <a href="https://en.wikipedia.org/wiki/Boris_Yeltsin">here you go</a>
 
