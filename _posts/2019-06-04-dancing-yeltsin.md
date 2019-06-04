@@ -11,5 +11,5 @@ Make some time to enjoy this:
 
 As paraphrased from ROTL 339: No matter how drunk you may have been once (1), you can't have been as drunk as Boris Yeltsin was *ALL THE TIME* (2)
 
-(1) Yeah, that *one time* when your friends and relatives expressed some serious concern for your continued well-being.
-(2) Seriously, not close.
+<br />(1) Yeah, that *one time* when your friends and relatives expressed some serious concern for your continued well-being.
+<br />(2) Seriously, not close.
