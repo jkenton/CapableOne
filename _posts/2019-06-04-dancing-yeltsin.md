@@ -13,5 +13,5 @@ As paraphrased from <a href="http://www.podtrac.com/pts/redirect.mp3/www.merlinm
 
 If you would like to learn more about Boris Yeltsin, <a href="https://en.wikipedia.org/wiki/Boris_Yeltsin">here you go</a>.
 
-<br />1 - Yeah, that *one time* when your friends and relatives expressed some serious concern for your continued well-being.
+<br />1 - Yes, including that *one time* when your friends and relatives expressed some serious concern for your continued well-being.
 <br />2 - Seriously, not close.
