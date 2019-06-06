@@ -12,5 +12,4 @@ Seventy-five years ago this week, a few armies worth of men rushed ashore in Nor
 It's not a happy anniversary, but still it must be acknowledged.
 <br /><br />
 If you'd like to learn more about D-Day <a href="https://en.wikipedia.org/wiki/Normandy_landings">here you go</a>. <br /><br />
-
 Or, if you'd like to learn more about <a href="https://en.wikipedia.org/wiki/Operation_Overlord">Operation Overlord</a>.
