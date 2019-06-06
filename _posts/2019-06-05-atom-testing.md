@@ -5,3 +5,5 @@ title: This is from Atom.io and stuff
 categories: tech-nerdery
 ---
 DRINK DRINK DRINK
+*This should be empahsized*
+**This should be bold**
