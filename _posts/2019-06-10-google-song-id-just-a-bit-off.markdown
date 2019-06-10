@@ -12,3 +12,5 @@ Today, I was listening to their song "Song Arrangement Blues". (OK, that's three
 Below, find the results of the Song identification:
 
 <img src="{{site.baseurl}}/images/DKE_screenshot.png">
+
+Geeze... get it right, doofus!
