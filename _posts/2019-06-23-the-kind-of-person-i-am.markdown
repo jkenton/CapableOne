@@ -20,10 +20,10 @@ There was one each for:
 <li>National Mall and Memorial Parks
 </ul>
 
-Then I noticed that the date information was not correct on some of them (*Nerd Level 2*)
+Then I noticed that the date information was not correct on *some* of them (*Nerd Level 2*)
 
 So I **fixed** them... (*Nerd Level 3*)
 
-Yes, indeed... and now that I am looking at the stamps I made, I left one on Jul 22, 2020 instead of 2019 (*sad trombone*)
+Yes, indeed... and now that I am looking at the stamps I made, I left one on "Jul 22, 2020" instead of "Jun 22, 2019" (*sad trombone*)
 
 Ladies?
