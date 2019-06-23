@@ -4,11 +4,11 @@ title: "The Kind of Person I am"
 date: "2019-06-23 16:40:51 -0400"
 categories: personality
 ---
-<img src="images/mall-stamps.jpg">
+<img src="{{site.baseurl}}/images/mall-stamps.jpg">
 
 Yesterday, I was on the National Mall in Washington DC. I was transiting from the Washington Monument area to the Lincoln Monument area and noticed that the Lockkeeper's House was open.
 
-There wasn't much to see in the house, but there WERE rubber stamps... So I stamped my notebook with one. Then, because I am a *Nerd*, I decided to find out if they were all the same. They weren't.
+There wasn't much to see in the house, but there WERE rubber stamps... So I stamped my notebook with one. Then, because I am a *Nerd*, I decided to find out if they were all the same. They weren't. See image above...
 
 There was one each for:
 
