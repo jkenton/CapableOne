@@ -18,7 +18,9 @@ There was one each for:
 <li>Constitution Gardens
 <li>Memorial to the 56 Signers of the Declaration of Independence
 <li>National Mall and Memorial Parks
-</ul>
+
+</UL>
+
 
 
 Then I noticed that the date information was not correct on *some* of them (*Nerd Level 2*)
