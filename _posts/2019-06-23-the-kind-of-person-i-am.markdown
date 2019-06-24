@@ -12,14 +12,11 @@ There wasn't much to see in the house, but there WERE rubber stamps... So I stam
 
 There was one each for:
 
-<ul>
-<li>The Lockkeeper's house
-<li>National Mall
-<li>Constitution Gardens
-<li>Memorial to the 56 Signers of the Declaration of Independence
-<li>National Mall and Memorial Parks
-</ul>
-
+* The Lockkeeper's house
+* National Mall
+* Constitution Gardens
+* Memorial to the 56 Signers of the Declaration of Independence
+* National Mall and Memorial Parks
 
 
 Then I noticed that the date information was not correct on *some* of them (*Nerd Level 2*)
