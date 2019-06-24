@@ -12,14 +12,13 @@ There wasn't much to see in the house, but there WERE rubber stamps... So I stam
 
 There was one each for:
 
-<UL>
+<ul>
 <li>The Lockkeeper's house
 <li>National Mall
 <li>Constitution Gardens
 <li>Memorial to the 56 Signers of the Declaration of Independence
 <li>National Mall and Memorial Parks
-
-</UL>
+</ul>
 
 
 
