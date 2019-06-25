@@ -5,7 +5,7 @@ date: "2019-06-25 13:55:19 -0400"
 categories: awesome statue
 ---
 
-<img src=""{{site.baseurl}}/images/brooks-gold.png">
+<img src="{{site.baseurl}}/images/brooks-gold.png">
 
 As things come to mind, I try to add them here. Makes for a more interesting blog, I suppose.
 
