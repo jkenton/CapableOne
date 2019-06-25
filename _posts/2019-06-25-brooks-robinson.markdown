@@ -11,4 +11,4 @@ As things come to mind, I try to add them here. Makes for a more interesting blo
 
 Note that his glove is GOLD. From 1960-1975, inclusive, he won the Gold Glove for 3rd base, and he played his entire career for the Baltimore Orioles.
 
-If you'd like to learn more about Brook Robinson, <a href="https://en.wikipedia.org/wiki/Brooks_Robinson">here you go</a>.
+If you'd like to learn more about Brooks Robinson, <a href="https://en.wikipedia.org/wiki/Brooks_Robinson">here you go</a>.
