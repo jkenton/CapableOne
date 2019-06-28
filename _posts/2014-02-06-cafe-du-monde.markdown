@@ -4,7 +4,7 @@ title: "Cafe du Monde"
 date: "2014-02-06 14:54:59 -0400"
 ---
 
-<img src="site.baseurl/images/cdmNOLA.jpg"
+<img src="site.baseurl/images/cdmNOLA.jpg">
 
 I have been to Cafe du Monde a few times before, and each time I was there about something different. The first theme was to try the beignets (they helpfully explain that it means "French doughnut"), the second theme was for the Cafe au Laits (very strong black chicory coffee with steamed milk). This time, for the total experience.
 
