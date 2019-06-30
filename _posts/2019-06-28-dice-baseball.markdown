@@ -13,7 +13,7 @@ Get yourself three dice (yes, the six-sided kind, Dungeon Master) and a baseball
 Roll the dice. Add the sum and consult the table below
 
 |||||
-|--|---|---|---|
+|:---:|:---:|:---:|:---:|
 |3 | 4| 5| 6|
 |3B | BB  | 1B  | 2B  |
 | | | | |
@@ -35,7 +35,7 @@ I looked at the <a href="https://www.baseball-reference.com/leagues/MLB/2018.sht
 Singles (1B), Doubles (2B), Triples (3B), Home Runs (HR), Striekouts (SO), Ground Outs (GO), Fly Outs (FO), and all the various ways that someone can earn 1st base without hitting (BB, HBP, IBB)
 
 | | | ||
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |1B|2B|3B|HR|
 |.143|0.45|.0045|.03|
 | | | | | |
@@ -51,7 +51,7 @@ Then, I looked at the probability of rolling each possible dice roll"
 I know from statistics that there are only limited ways to get 3 and 18 (1x1x1 and 6x6x6, respectively), and that there are lots more different ways to get a combination in the "middle" of the range (10 & 11; each 27 ways/216)
 
 ||||
-|---|---|---|
+|:---:|:---:|:---:|
 |P(3)| P(18)|	1/216= 0.0046	 |
 |P(4)|P(17)|	3/216= 0.0138|
 |P(5)|P(16)|	6/216= 0.0276|
@@ -65,8 +65,9 @@ Now, to find a way to assign one outcome to each of the 16 possible scores 3-18.
 
 This table is how I came to assign the dice results in the first table waaaay up above:
 
-|Action|MLB % |3d6 Pred|Dice|
-|--|---|---|---|
+|||||
+|:--:|:---:|:---:|:---:|
+|**Action**|**MLB %** |**3d6 Pred**|**Dice**|
 |1B|.143|.1526 |(p(5) + p(10)|
 |2B|.045|.046 |p(6)|		
 |3B|.0045|.0046| p(3)|
