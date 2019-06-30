@@ -4,7 +4,8 @@ title: "Dice Baseball"
 date: "2019-06-28 15:27:09 -0400"
 categories: nerdery
 ---
- TLDR;
+**TLDR;**
+
 Gather 'round people.
 
 Get yourself three dice (yes, the six-sided kind, Dungeon Master) and a baseball scoring sheet.
