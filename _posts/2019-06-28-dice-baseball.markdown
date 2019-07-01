@@ -11,15 +11,20 @@ Gather 'round people.
 Get yourself three dice (yes, the six-sided kind, Dungeon Master) and a baseball scoring sheet.
 
 Roll the dice. Add the sum and consult the table below
+___
 
 |||||||||
 |:---:|:---:|:---:|:---:|:--:|:--:|:--:|:--:|
 |3 | 4| 5| 6| 7| 8| 9| 10|
 |3B | BB  | 1B  | 2B  |GO |SO|FO|FO|
-| #|# |# |# |#|#|#|#|
+
+---
+|||||||||
+|:---:|:---:|:---:|:---:|:--:|:--:|:--:|:--:|
 |11|12|13|14|15|16|17|18|
 |GO|HR|BB|BB|GO|BB|SO|1B|
 
+___
 Enjoy!
 
 
