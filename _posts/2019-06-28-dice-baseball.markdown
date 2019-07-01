@@ -12,19 +12,13 @@ Get yourself three dice (yes, the six-sided kind, Dungeon Master) and a baseball
 
 Roll the dice. Add the sum and consult the table below
 
-|||||
-|:---:|:---:|:---:|:---:|
-|3 | 4| 5| 6|
-|3B | BB  | 1B  | 2B  |
-| | | | |
-|7 |8 | 9| 10|
-|GO|SO|SO|1B|
-| | | | |
-|11|12|13|14|
-|FO|FO|GO|BB|
-| | | | |
-|15|16|17|18|
-|GO|HR|BB|BB|
+|||||||||
+|:---:|:---:|:---:|:---:|:--:|:--:|:--:|:--:|
+|3 | 4| 5| 6| 7| 8| 9| 10|
+|3B | BB  | 1B  | 2B  |GO |SO|FO|FO|
+| #|# |# |# |#|#|#|#|
+|11|12|13|14|15|16|17|18|
+|GO|HR|BB|BB|GO|BB|SO|1B|
 
 Enjoy!
 
@@ -52,7 +46,7 @@ I know from statistics that there are only limited ways to get 3 and 18 (1x1x1 a
 
 ||||
 |:---:|:---:|:---:|
-|P(3)| P(18)|	1/216= 0.0046	 |
+|P(3)| P(18)|	1/216= 0.0046	|
 |P(4)|P(17)|	3/216= 0.0138|
 |P(5)|P(16)|	6/216= 0.0276|
 |P(6)| p(15)|	10/216= 0.0460|
