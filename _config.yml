@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+theme: jekyll-theme-architect
+
 # Site settings
 title: The Capable One
 email: jkenton@gmail.com
@@ -19,4 +21,3 @@ github_username:  jkenton
 markdown: kramdown
 
 future: false
-
