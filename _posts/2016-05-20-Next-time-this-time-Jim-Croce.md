@@ -10,18 +10,22 @@ categories: music youtube
 
 [Ed: this song contains my absolute favorite line in any song, highlighted below]
 
+VERSE<br />
 *If you get to feelin' all alone<br /> When your good-time friends have all got up and gone<br />Don't come knockin' around my door<br />
 Because I've heard your lines before*<br />
 
 CHORUS (1st & 2nd times)<br />
-*There ain't gonna be a next time this time<br />'Cause woman startin' right now<br />I'm gonna forget your name and your pretty face, girl<br />And write you off as a bad mistake*
+*There ain't gonna be a next time this time<br />'Cause woman startin' right now<br />I'm gonna forget your name and your pretty face, girl<br />And write you off as a bad mistake<br />You know that some women, they are lovers<br />And some just got no sense<br />But a woman like you oughta be ashamed<br />
+Of the things that you do to men*<br />
 
-(1st & 2nd Time)<br />
-*You know that some women, they are lovers<br />And some just got no sense<br />But a woman like you oughta be ashamed<br />
-Of the things that you do to men<br /><br />*
+
+VERSE<br/>
 *If you get to feeling all alone<br />When you find that you can't make it on your own<br />Don't come knockin' around my door<br />You see I've seen your act before*<br />
 
-CHORUS (2nd time)<br />
+CHORUS
+<br />
+
+VERSE<br />
 *If you get to feelin' you were wrong<br />Don't go wastin' your good money on the phone<br />__'Cause I can hang up as fast as you can call__<br />And that ain't all*
 
 CHORUS (3rd time)<br />
