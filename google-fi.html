@@ -10,11 +10,6 @@ Step 1, isolate all google fi posts from the entirety of posts
 <table><tr><td>
 <h3>All Google Fi Posts</h3>
 <div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
 
     <h3 class="category-head">Google Fi</h3>
     <a name="{{ category_name | slugize }}"></a>
@@ -24,8 +19,8 @@ Step 1, isolate all google fi posts from the entirety of posts
     </article>
     {% endfor %}
   </div>
-{% endfor %}
-</div></td>
+
+</td>
 
 
 
