@@ -15,9 +15,9 @@ Arrgh
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="category-head">{{ category_name }}</h3>
+    <h3 class="category-head">Google Fi</h3>
     <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
+    {% for post in site.categories[google-fi] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
@@ -25,6 +25,10 @@ Arrgh
   </div>
 {% endfor %}
 </div></td>
+
+
+
+
 <td valign="top">
 <h3>Categories</h3>
 <ul>
