@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Diving Duck - Taj Mahal (with Keb' Mo')
+Title: "Diving Duck - Taj Mahal (with Keb' Mo')"
 date: 2019-07-30
 categories: music youtube
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Bride and Bridle - The Long Winters
+Title: "Bride and Bridle - The Long Winters"
 date: 2019-06-25 07:00:00 -0400
 categories: youtube music
 ---
