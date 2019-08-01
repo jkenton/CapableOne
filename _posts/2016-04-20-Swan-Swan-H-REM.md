@@ -7,6 +7,12 @@ categories: music youtube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3_QG6tr9mjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I'm not going to fight anyone about this, but it seems like a reconstruction-era interchange between a northerner, and a southern peddler.
+
+If you would like to learn more about <a href="https://en.wikipedia.org/wiki/R.E.M.">R.E.M.</a>, here you go.
+
+I also recommend you listen to the podcast <a href="https://www.theincomparable.com/ump/48/">Unjustly Maligned #48 "R.E.M., Early"</a> featuring Merlin Mann.
+
 You know the rules. This song was in my head while getting ready for work today.
 
 
