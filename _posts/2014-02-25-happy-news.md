@@ -22,3 +22,5 @@ So, my prototypical antidote story for these kinds of events is this:
 Why the photo above? Well, it looks like this desire for happiness crosses the divide between species. See, both dogs started out a little grumpy. Then one dog kissed the other dog. And finally, they are both happy.
 
 **One dog kisses another dog. Both dogs smile.**
+
+Can't we have that?
