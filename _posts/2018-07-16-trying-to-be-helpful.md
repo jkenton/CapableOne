@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-07-16
-title: Just trying to be helpful
+title: "Just trying to be helpful"
 categories: thinking
 ---
 

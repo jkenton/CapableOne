@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on a Lazy Sunday
+title: "Thoughts on a Lazy Sunday"
 date: 2019-06-23
 categories: Thoughts
 ---

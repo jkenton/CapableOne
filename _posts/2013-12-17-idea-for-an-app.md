@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I've got an idea for an app
-date: 2013-12-17 00:00:00 -0400 
+title: "I've got an idea for an app"
+date: 2013-12-17 00:00:00 -0400
 categories: thinking nerdery silly
 ---
 

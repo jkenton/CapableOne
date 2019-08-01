@@ -1,6 +1,6 @@
 ---
-layout: post 
-title: Swan Swan H by R.E.M.
+layout: post
+title: "Swan Swan H - R.E.M.""
 date: 2019-05-31 9:20:52 -0400
 categories: music youtube today-song
 ---

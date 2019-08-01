@@ -1,5 +1,6 @@
 ---
-title: Need to Rock It Today
+layout: post
+title: "Need to Rock It Today"
 date: 2019-05-31 7:01:55 -0400
 categories: work
 ---

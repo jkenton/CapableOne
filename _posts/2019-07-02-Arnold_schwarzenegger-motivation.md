@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Arnold Schwarzenegger Motivation (Six Steps)
-date: 2019-07-02 
+title:  "Arnold Schwarzenegger Motivation (Six Steps)"
+date: 2019-07-02
 categories: awesome youtube
 ---
 

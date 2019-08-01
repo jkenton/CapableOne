@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My secret desire for happy news
+title: "My secret desire for happy news"
 date: 2014-02-25
 categories: Awesome
 ---

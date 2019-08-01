@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "She Talks to Angels by The Black Crowes"
+title: "She Talks to Angels - The Black Crowes"
 date: 2014-05-26 00:00:00 -0400
 categories: music youtube
 ---

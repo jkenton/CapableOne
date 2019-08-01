@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Joseph Kittinger
-date: 2010-05-10 
+title:  "Joseph Kittinger"
+date: 2010-05-10
 categories: awesome
 ---
 

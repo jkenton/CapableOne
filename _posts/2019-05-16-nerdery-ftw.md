@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-05-16 00:00:00 -0400
-title: Unnecessary Nerdery FTW
+title: "Unnecessary Nerdery FTW"
 categories: nerdery thinking
 ---
 

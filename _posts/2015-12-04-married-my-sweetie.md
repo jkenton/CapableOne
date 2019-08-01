@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Married my Sweetie
+title: "Married my Sweetie"
 date: 2015-12-04 00:00:00 -0400
 categories: awesome nerdery
 ---

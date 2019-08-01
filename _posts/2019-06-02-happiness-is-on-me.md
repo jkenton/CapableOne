@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-02
-title: Happiness is on Me
+title: "Happiness is on Me"
 categories: thinking happiness
 ---
 
@@ -12,4 +12,3 @@ Today was pretty great. Jeremiah Lloyd Harmon (who made the top six in American 
 Lots of spontaneous requests for help and prayers today. Prayers for successful eye surgery, for an ailing centenarian, for health, welfare, children, friends, and family.
 
 Which reminds me: I'm pretty blessed. I forget that sometimes.
-

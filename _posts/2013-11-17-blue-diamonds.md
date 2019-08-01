@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blue Diamonds by the Long Winters"
+title: "Blue Diamonds - The Long Winters"
 date: 2013-11-17 00:00:00 -0400
 youtubeID: 6TknNcpAAlA
 categories: music youtube

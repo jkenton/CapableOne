@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-04
-title: Declaration of Independence
+title: "The Declaration of Independence"
 categories: awesome
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: post 
-title: Another day, another workplace shooting
+layout: post
+title: "Another day, another workplace shooting"
 date: 2019-06-03 09:00:00
 categories: thinking ridiculous
 ---

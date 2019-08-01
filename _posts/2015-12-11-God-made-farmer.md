@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "God made a Farmer by Paul Harvey"
+title: "God made a Farmer - Paul Harvey"
 date: 2015-12-11 00:00:00 -0400
 categories: awesome music youtube
 ---

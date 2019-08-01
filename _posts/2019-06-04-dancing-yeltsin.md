@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dancing Boris Yeltsin
+title: "Dancing Boris Yeltsin"
 date: 2019-06-04 08:00:00 -0400
 categories: youtube silly
 ---

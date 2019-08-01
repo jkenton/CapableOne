@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 75th Anniversary of D-Day
+title: "75th Anniversary of D-Day"
 date: "2019-06-06 08:20:40 -0400"
 categories: thinking gratitude
 ---

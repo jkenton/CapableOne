@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIP Dr John 
+title: "RIP Dr John"
 date: 2019-06-06
 categories: music youtube
 ---

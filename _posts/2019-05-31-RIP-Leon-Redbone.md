@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIP Leon Redbone
+title: "RIP Leon Redbone"
 date: 2019-05-31
 categories: music youtube silly
 ---

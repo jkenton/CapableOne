@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-03-24
-title: RIP Garry Shandling
+title: "RIP Garry Shandling"
 categories: RIP comedian
 ---
 

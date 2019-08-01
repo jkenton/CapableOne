@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Time, This Time - Jim croce
+title: "Next Time, This Time - Jim Croce"
 date: 2016-05-20
 categories: music youtube
 ---

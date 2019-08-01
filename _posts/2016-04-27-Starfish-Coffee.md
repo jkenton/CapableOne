@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starfish and Coffee - Prince
+title: "Starfish and Coffee - Prince"
 date: 2016-04-27 01:00:00
 categories: music youtube
 ---

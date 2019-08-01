@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2019-06-10
-title: UPS Forgives itself (Pt I)
-categories: weaselry 
+title: "UPS Forgives itself (Pt I)"
+categories: weaselry
 ---
 I have been waiting a week or so for a package to arrive from New York. Ordinarily, packages from New York arrive within a couple of days. So, today I looked online to see if there was a reason.
 

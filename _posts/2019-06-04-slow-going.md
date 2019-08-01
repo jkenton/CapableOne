@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slow going, learning new things!
+title: "Slow going, learning new things!"
 date: 2019-06-04
 categories: learning
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scrapper Blackwell - Nobody knows you when You're Down and Out
+title: "Scrapper Blackwell - Nobody knows you when You're Down and Out"
 date: 2019-06-01
 categories: music youtube blues
 ---

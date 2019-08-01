@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swan Swan H - REM
+title: "Swan Swan H - REM"
 date: 2016-04-20
 categories: music youtube
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random Year-end Curiosity
+title: "Random Year-end Curiosity"
 date: 2013-12-13 00:00:00 -0400
 categories: thinking nerdery
 ---
