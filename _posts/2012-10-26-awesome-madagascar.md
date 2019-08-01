@@ -1,5 +1,5 @@
 ---
-tile: "Awesome after Madagascar 3"
+title: "Awesome after Madagascar 3"
 date: 2012-10-26
 layout: post
 categories: Awesome
