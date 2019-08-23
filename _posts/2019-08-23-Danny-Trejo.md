@@ -8,8 +8,9 @@ A couple weeks ago, Danny Trejo was hailed as a hero for helping rescue a kid fr
 
 He was interviewed and gave this gem of a quote:
 
-"Everything good that has happened to me has happened as a direct result of helping someone else."
+"Everything good that has happened to me has happened as a direct result of helping someone else. Everything. And that's the way I live."
 (https://abc7.com/actor-danny-trejo-helps-save-child-in-sylmar-car-crash/5451006/)
 
+Be like Danny.
 
-Be like Danny. Here is [[https://en.wikipedia.org/wiki/Danny_Trejo][Danny Trejo's wikipedia]], if you want to learn more
+ Here is [[https://en.wikipedia.org/wiki/Danny_Trejo][Danny Trejo's wikipedia]], if you want to learn more
