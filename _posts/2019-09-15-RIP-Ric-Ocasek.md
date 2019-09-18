@@ -9,7 +9,7 @@ categories: music youtube
 
 The summer of 1984 was pretty cool, and the above song was played around me a lot...
 
-Ri Ocasek died today. They said he was 75.  He looked a lot younger than that. That means he was over forty in the video above. How wacky is that?
+Ric Ocasek died today. They said he was 75.  He looked a lot younger than that. That means he was over forty in the video above. How wacky is that?
 
 Pretty bitchen video too, guys!
 
