@@ -13,4 +13,4 @@ Ri Ocasek died today. They said he was 75.  He looked a lot younger than that. T
 
 Pretty bitchen video too, guys!
 
-RIP Ric Ocasek!
+RIP <a href="https://en.wikipedia.org/wiki/Ric_Ocasek">Ric Ocasek</a>!
