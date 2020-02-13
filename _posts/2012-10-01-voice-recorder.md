@@ -2,7 +2,7 @@
 layout: post
 title: Productivity Workflow with Voice Recorder
 date: 2012-10-01
-categories: music youtube
+categories: Complexify
 ---
 
 <img src="/images/mic-microphone.jpg" alt="hi" class="inline"/>
@@ -21,6 +21,6 @@ Here's how my workflow works right now with respect to my voice recorder and get
 <li>Some of text files in the to do folder are actually substantial bits of effort and they deserve a little bit extra time. They are probably not urgent, and are just some thoughts that I'm trying to stick together somehow. It's okay for those to sit in the to do folder for a while until I can process them.
 <li>Once the transcripts are complete and accurate, I dump the files - one at a time - into Evernote. Evernote will make the text files into text-based notes (there will not be a file attachment, that is).
 <li>This conversion allows the note contents to be searchable immediately. When a theme becomes apparent, I can search on that theme in Evernote, and it will return the notes that have that description in them.
-<li>To sum up, that's how my thoughts get from my brain into either a todo list (for more immediate attention) or into Evernote (for curation or curing or marination or rumination - they need to sit in the dark for a while... hahaha). It goes like this: Brain to Voice. Voice to Voice Recorder. Voice Memo to Dragon. Dragon to Transcript. Transcript to Todo or Evernote.
+<li>To sum up, that's how my thoughts get from my brain into either a todo list (for more immediate attention) or into Evernote (for curation or curing or marination or rumination - they need to sit in the dark for a while... hahaha). It goes like this: Brain to Voice. Voice to Voice Recorder. Voice Memo to Dragon. Dragon to Transcript. Transcript to Todo or Evernote.</ul>
 
 note: One of a series of attempts to reduce friction getting ideas onto paper so they can be edited and enacted.
