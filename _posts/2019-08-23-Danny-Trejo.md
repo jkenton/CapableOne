@@ -4,6 +4,8 @@ title: Quote from Danny Trejo
 date: 2019-08-23
 ---
 
+<a image="/images/Danny_Trejo.jpg" alt="Danny Trejo smiling" />
+
 A couple weeks ago, Danny Trejo was hailed as a hero for helping rescue a kid from a car seat in an overturned car.
 
 He was interviewed and gave this gem of a quote:
