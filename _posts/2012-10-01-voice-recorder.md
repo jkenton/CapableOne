@@ -5,7 +5,7 @@ date: 2012-10-01
 categories: music youtube
 ---
 
-<img src="images\mic-microphone.jpg" alt="hi" class="inline"/>
+<img src="..\images\mic-microphone.jpg" alt="hi" class="inline"/>
 
 
 **Productivity Workflow with Voice Recorder**
