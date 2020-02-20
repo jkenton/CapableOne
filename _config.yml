@@ -9,7 +9,7 @@
  twitter_username: jkenton
  github_username: jkenton
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: pretty
  future: false
 
 # Build settings
