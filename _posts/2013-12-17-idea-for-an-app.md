@@ -7,7 +7,7 @@ categories: thinking nerdery silly
 
 <img src="{{site.baseurl}}/images/phone-app.jpg">
 
-Alright, I own an iPhone. I admit it.
+Alright, I own an iPhone. I admit it. [ed: yeah, no longer...]
 
 I have an idea for an app that might creep the Hell out of some people, but maybe not. Here goes:
 
