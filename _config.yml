@@ -11,7 +11,8 @@
 
 permalink: date
  future: false
-comments: true
+
+
 # Build settings
 # theme: minima
 # plugins:
