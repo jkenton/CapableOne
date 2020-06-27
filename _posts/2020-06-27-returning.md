@@ -5,7 +5,7 @@ date:   2020-06-27 12:00:00 -0400
 
 ---
 
-<img src="..\images\horse-rider.jpg">
+<img src="/images/horse-rider.jpg">
 
 
 This pandemic has been quite a trip. It has messed with my mind. Secretly. Deceptively. Certainly.
