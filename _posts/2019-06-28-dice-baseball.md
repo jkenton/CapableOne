@@ -88,3 +88,5 @@ If you've got a better way to assign the dice results, let me know. Otherwise, t
 It's a fun game, though, and a nice subsitution for Yahtzee on a rainy summer day...
 
 ENJOY!
+
+[Ed: This post was informed by a webpage about [Desktop Baseball](https://www.housewifeeclectic.com/tabletop-dice-baseball-game-scorecard-printable/), but that webpage calls for just two dice. As nerds know, that would only give 36 possibilities, which is not precise enough (for nerds), so I did all the work above to "improve" (from a nerd's point of view) the rules I originally found.]
