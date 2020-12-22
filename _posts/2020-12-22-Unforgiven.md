@@ -3,7 +3,7 @@ layout: post
 date: 2020-12-22
 title: "Dave Chapelle - Unforgiven"
 ---
-<img src="images/Dave_Chappelle.jpg">
+<img src="/images/Dave_Chappelle.jpg">
 
 
 <a href="https://www.instagram.com/tv/CH-rR9znT3g">Dave Chapelle's Unforgiven"</a>
