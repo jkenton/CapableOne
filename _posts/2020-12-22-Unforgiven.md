@@ -3,6 +3,6 @@ layout: post
 date: 2020-12-22
 title: "Dave Chapelle - Unforgiven"
 ---
+<a href="https://www.instagram.com/tv/CH-rR9znT3g">Dave Chapelle's Unforgiven"</a>
 
-
-<iframe width="560" height="315" src="https://www.instagram.com/tv/CH-rR9znT3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Go ahead and click that link. I'll be here when you are done.
