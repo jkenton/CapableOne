@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Strange Nation - Susan werner"
+title: "My Strange Nation - Susan Werner"
 date: 2021-01-12 00:00:00 -0400
 
 ---
