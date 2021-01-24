@@ -15,7 +15,7 @@ Linux made my life as a "sysadmin" more livable. I began to understand things fr
 
 And it was free. As folks used to say, it's my favorite four letter word.
 
-Another time was when I learned about Evernote. Evernote allowed a person to store all manner of information into a database that had only the barest amount of structure. At first, I could run it off a flash drive, and take it with me to the computers I used. This allowed me to just grab stuff, rather than writing notes of where things lived, and then spending time at my "base computer" putting all the desired artiacts into their desired places. Eventually, it AUTOMATICALLY SYNCED, so there was no reason not to have it everywhere.
+Another time was when I learned about Evernote. Evernote allowed a person to store all manner of information into a database that had only the barest amount of structure. At first, I could run it off a flash drive, and take it with me to the computers I used. This allowed me to just grab stuff, rather than writing notes of where things lived, and then spending time at my "base computer" putting all the desired artifacts into their desired places. Eventually, it AUTOMATICALLY SYNCED, so there was no reason not to have it everywhere.
 
 And for ~$50 a year, I had more capacity for capturing and storing and organizing materials than I ever had a reason to use.
 
