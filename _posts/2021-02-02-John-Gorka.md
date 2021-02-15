@@ -8,7 +8,7 @@ date: 2021-02-02
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jaWDWojIYS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I saw John Gorka perform at a place called "The Vine" in Iowa City IA. I went with the guy who lived across the hall from me, and the person who was to become my ex-wife (but not right away). 
+I saw John Gorka perform at a place called <a href="https://iowa-city.vinetavern.com/">The Vine</a> in Iowa City IA. I went with the guy who lived across the hall from me, and the person who was to become my ex-wife (but not right away). 
 
 And now a live version:
 
