@@ -13,6 +13,12 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
+	<!-- COMMENTS -->
+		{% if page.comments_id %}
+					{% include comments.html %}
+				{% endif %}
+
+				<!--COMMENTS -->
   </div>
 
 </article>
