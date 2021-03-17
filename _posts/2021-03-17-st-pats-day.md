@@ -7,3 +7,5 @@ title: Happy St. Patricks Day!
 <img src="/images/stpatsgnome.jpeg">
 
 HAPPY ST. PATRICK'S DAY!
+
+And if you're not Irish today. Well, nobody is forcing you. Have a beer and relax.
