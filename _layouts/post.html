@@ -13,16 +13,24 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
-<h3>Comments?</h3>
-<!-- COMMENTS -->
-		<script src="https://utteranc.es/client.js"
+ {% if page.comments %}
+
+
+ <h3>Comments?</h3>
+ 
+{include disqus.html}
+
+ {% endif %}
+
+<!--		<script src="https://utteranc.es/client.js"
 		        repo="jkenton/CapableOne"
 		        issue-term="title"
 		        theme="github-light"
 						label="Comment"
 		        crossorigin="anonymous"
 		        async>
-		</script>
+		</script> -->
+
 	<!--END COMMENTS>
 
   </div>
