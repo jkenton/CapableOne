@@ -5,14 +5,14 @@ layout: post
 comments: true
 ---
 
-<img src="/images/1348-plague-florence.jpg"
+<img src="/images/1348-plague-florence.jpg">
 
 
 [File this one under "History Doesn't Repeat Itself, But It Does Rhyme" - Mark Twain (attributed)]
 
 Yesterday, I was reading along in a book called *The Intellectual Devotional* [^1]. The book is 365 Daily devotionals that are split across the "seven fields of knowledge" (History, Literature, Visual Arts, Science, Music, Philosophy, & Religion). In any event, I found myself in Week 12, Monday (which is History). The topic was "The Black Plague". The bare facts: Originated in Asia. Spread like wildfire across the globe. Active in Europe 1347-1350. Killed one-third of the European population. The graphic above depicts Florence in 1348.
 
-[^1] Kidder, D.S. & Oppenheim, N.D. (2006). *The Intellectual Devotional: Revive your mind, complete your education, and roam confidently with the cultured class.* New York, NY: Rodale.
+[^1]: Kidder, D.S. & Oppenheim, N.D. (2006). *The Intellectual Devotional: Revive your mind, complete your education, and roam confidently with the cultured class.* New York, NY: Rodale.
 
 "The consequences of the plague in European society were profound. Many enraged European Christians blamed Jews for the disease, and the pogroms that followed the Black Death were among the worst outbreaks of anti-Semitism in history." (Kidder & Oppenheim, 2006, p. 78)
 
