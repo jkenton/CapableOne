@@ -49,6 +49,6 @@ I had a boss who wondered about the actual usefulness of maintaining a database 
 ---
 
 Footnotes:
-* [^1]: Allen, D. (2002). *Getting Things Done: The Art of Stress-Free Productivity* New York, NY: Penguin Books.
-* [^2]: I never did attend an official GTD event. I read the main book several times, listened to a pirated copy of the GTD Fast audio program more than two or three times, subscribed to many podcasts, and actively attended to every official interview with David Allen I could find.
-* [^3]: Marc Forster has had a lot of <a href="http://markforster.squarespace.com/autofocus-system/"> revisions to his systems over time</a>, and they are worth the try just to see if they work... ()
+[^1]: Allen, D. (2002). *Getting Things Done: The Art of Stress-Free Productivity* New York, NY: Penguin Books.
+[^2]: I never did attend an official GTD event. I read the main book several times, listened to a pirated copy of the GTD Fast audio program more than two or three times, subscribed to many podcasts, and actively attended to every official interview with David Allen I could find.
+[^3]: Marc Forster has had a lot of <a href="http://markforster.squarespace.com/autofocus-system/"> revisions to his systems over time</a>, and they are worth the try just to see if they work... ()
