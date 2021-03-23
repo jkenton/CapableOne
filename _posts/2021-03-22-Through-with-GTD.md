@@ -9,7 +9,7 @@ layout: post
 
 **Today, March 22, 2021, I am declaring "Getting Things Done" (GTD) bankruptcy.**
 
-I crossed paths with "Getting Things Done" in the 2003-2004 timeframe.[^1] It was introduced to me by a friend named Mark, who I worked alongside as a computer tech support tech between 1998-2002. The book advertised several appealing concepts, such as "mind like water", and "stress-free productivity." Who wouldn't want that?
+I crossed paths with "Getting Things Done" in the 2003-2004 timeframe. [^1] It was introduced to me by a friend named Mark, who I worked alongside as a computer tech support tech between 1998-2002. The book advertised several appealing concepts, such as "mind like water", and "stress-free productivity." Who wouldn't want that?
 
 As of right now, I'm 17 years into the process, and still feel like "less than novice". Yet, when I look back on the last 17 years, I see that I have accomplished a great deal. No, it was not "stress-free". In fact, I feel like a heavy component of the stress that I *did* feel could be attributed to beating myself up for not keeping my GTD system up to date. It would not be fair to say that I got zero benefit from the books and seminars and other ancillaries [^2] that I experienced.
 
@@ -46,6 +46,7 @@ I had a boss who wondered about the actual usefulness of maintaining a database 
 
 
 Footnotes:
+
 [^1]: Allen, D. (2002). *Getting Things Done: The Art of Stress-Free Productivity* New York, NY: Penguin Books.
 
 [^2]: I never did attend an official GTD event. I read the main book several times, listened to a pirated copy of the GTD Fast audio program more than two or three times, subscribed to many podcasts, and actively attended to every official interview with David Allen I could find.
