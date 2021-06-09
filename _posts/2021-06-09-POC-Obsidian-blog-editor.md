@@ -17,3 +17,6 @@ DId it work?
 What broke, if anything?
 
 Is it ready for prime time, mostly?
+
+---
+Results: I can't easily do the git push  command without it forcing me to use a deprecated login method. But, I can fire up Atom or whatever to do the pushes. Resisting the urge to learn how to make the command line stuff work... Resist... Resist...
