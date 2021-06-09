@@ -13,3 +13,5 @@ Sometimes, the Capable One is the one that needs help. And in many cases that he
 I've been told that my tone is hard to decode. Sorry. Mostly I am a happy guy. Infrequently, I want to burn down the world out of frustration. Stories about both of those extremes - and a lot of mundane crap too, and MUSIC I like - are included here.
 
 WELCOME!
+
+June 2021 Update: Maybe some video content too, coming soon. Maybe.
