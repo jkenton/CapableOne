@@ -6,7 +6,7 @@ layout: post
 ---
 
 <figure>
- <img src="/images/obsidian.png" alt="Obsidian Logo Graphic">
+ <img src="/images/obsdian.png" alt="Obsidian Logo Graphic">
  <figcaption></figcaption>
 </figure>
 
