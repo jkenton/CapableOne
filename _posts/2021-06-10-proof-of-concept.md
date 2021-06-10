@@ -15,3 +15,6 @@ Some comments from the home office:
 	- Is it OBS?
 	- Is it the POS computer?
 	- ID:10T error?
+- when using the subtitles from recorder.google.com, remove the in-built timestamps
+
+Not terrible for the first time, and just to prove that I **can**
