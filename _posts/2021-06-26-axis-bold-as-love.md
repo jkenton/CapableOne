@@ -10,39 +10,31 @@ comments: true
 This one has been floating in my head for the past couple of days. Someone asked me, "What would you want your 'Walking Up' music to be?" and this one just popped into my head, so there you go.
 
 <blockquote>
-Purple: Anger
-
-Green: Queen Jealousy-Envy
-
-Blue: Life-giving waters
-
-Turquoise: Armies lying opposite, ready
-
-Red: Confidence
-
-Orange: Young, full of daring
-
-Yellow: Not so mellow, frightened
-
-Rainbow: You
-
+Purple: Anger<br />
+Green: Queen Jealousy-Envy<br />
+Blue: Life-giving waters, taken for granted<br />
+Turquoise: Armies lying opposite, ready<br />
+Red: Confidence<br />
+Orange: Young, full of daring<br />
+Yellow: Not so mellow, frightened<br />
+Rainbow: You<br />
 Axis: He knows everything</blockquote>
 
 At the 1:50 mark, the lyrics are done. Now, I have a sense of the way that *Axis: Bold as Love* was put together very quickly. You know, to capitalize (make money) on the fact that *Are You Experienced* was so popular. I can almost imagine the conversation.
 
 <blockquote>
-Producer: Wow, that's great Jim.
+Producer: Wow, that's great Jim.<br />
 
 Hendrix: Yeah, thanks! I'm pretty proud of the writing on that one.
-
+<br />
 Producer: But, nobody is going to listen to a 1:50 song, Jimi.
-
+<br />
 Hendrix: OK, I guess we can mkae it a little longer. I don't have another verse though...
-
+<br />
 Producer: I don't think that matters.
-
+<br />
 Hendrix: OK... I was shooting for a ballad, but I guess I could put a guitar solo on the end...
-
+<br />
 Producer: Sounds great, Jim.</blockquote>
 
 So they record a guitar solo, which adds about another minute to the song, and they fade out at the 2:48 mark.
@@ -67,6 +59,6 @@ And despite the extra padding at the end, with the effects and the plinky piano,
 
 <blockquote>
 Producer: Perfect!<br />
-Hendrix: But, we're going to smoothe out that Bold as Love song, right? I mean it sounds unfinished. And, you know, it's the *title song for the album*<br />
+Hendrix: But, we're going to smoothe out that Bold as Love song, right? I mean it sounds unfinished. And, you know, it's the TITLE SONG FOR THE ALBUM<br />
 Producer: I don't think it matters.</blockquote>
 
