@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
- <img src="/images/miscalculation" alt="Graphic with the word Miscalculation">
+ <img src="/images/miscalculation.png" alt="Graphic with the word Miscalculation">
 
 
 Mondays are already a mess, without any help. When I visited my doctor, she said "Set up an image study." I said OK. Then I started getting a flurry of text messages from this scheduler, asking WHERE WHEN WHY. Then a tamer set, saying "Hey Man, no worries, here's a URL that you can use to get yourself registered, and then we'll call you to set up the appointment." That's my speed.
