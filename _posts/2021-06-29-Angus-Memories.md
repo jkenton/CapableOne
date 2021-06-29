@@ -1,6 +1,6 @@
 ---
-title: 
-date: [date in yyyy-mm-dd]
+title: Memories are like that
+date: 2021-06-29
 layout: post
 comments: true
 ---
