@@ -11,6 +11,7 @@
 
 permalink: date
 future: false
+show_drafts: false
 comments: true
 
 # Build settings
