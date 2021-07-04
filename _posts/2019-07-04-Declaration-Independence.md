@@ -2,7 +2,7 @@
 layout: post
 date: 2019-07-04
 title: "The Declaration of Independence"
-categories: awesome
+comments: "true"
 ---
 
 
