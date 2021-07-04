@@ -2,6 +2,7 @@
 title: "Happy Birthday, Switzerland!"
 date: 2021-08-01
 layout: post
+future: false
 comments: true
 ---
 
