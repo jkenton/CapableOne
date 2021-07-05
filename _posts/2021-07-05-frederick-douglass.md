@@ -10,7 +10,7 @@ comments: true
 
 [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass)
 
-**The Meaning of July Fourth for the Negro**
+**The Meaning of July Fourth for the Negro**<br />
 July 5, 1852
 
 Fellow Citizens, I am not wanting in respect for the fathers of this republic. The signers of the Declaration of Independence were brave men. They were great men, great enough to give frame to a great age. It does not often happen to a nation to raise, at one time, such a number of truly great men. The point from which I am compelled to view them is not, certainly, the most favorable; and yet I cannot contemplate their great deeds with less than admiration. They were statesmen, patriots and heroes, and for the good they did, and the principles they contended for, I will unite with you to honor their memory....
