@@ -10,6 +10,8 @@ title: "The Capable One"
 twitter_username: jkenton
 github_username: jkenton
 
+timezone: America/New_York
+
 permalink: date
 future: false
 show_drafts: false
