@@ -46,46 +46,46 @@ Go where you may, search where you will, roam through all the monarchies and des
 
 The far off and almost fabulous Pacific rolls in grandeur at our feet. The Celestial Empire, the mystery of ages, is being solved. The fiat of the Almighty, "Let there be Light," has not yet spent its force. No abuse, no outrage whether in taste, sport or avarice, can now hide itself from the all-pervading light. The iron shoe, and crippled foot of China must be seen in contrast with nature. Africa must rise and put on her yet unwoven garment. 'Ethiopia, shall, stretch out her hand unto Ood." In the fervent aspirations of William Lloyd Garrison, I say, and let every heart join in saying it:
 
-God speed the year of jubilee
-The wide world o'er!
-When from their galling chains set free,
-Th' oppress'd shall vilely bend the knee,
-And wear the yoke of tyranny
-Like brutes no more.
-That year will come, and freedom's reign,
-To man his plundered rights again
-Restore.
+God speed the year of jubilee <br />
+The wide world o'er!<br />
+When from their galling chains set free,<br />
+Th' oppress'd shall vilely bend the knee,<br />
+And wear the yoke of tyranny<br />
+Like brutes no more.<br />
+That year will come, and freedom's reign,<br />
+To man his plundered rights again<br />
+Restore.<br />
+<br />
+God speed the day when human blood<br />
+Shall cease to flow!<br />
+In every clime be understood,<br />
+The claims of human brotherhood,<br />
+And each return for evil, good,<br />
+Not blow for blow;<br />
+That day will come all feuds to end,<br />
+And change into a faithful friend<br />
+Each foe.<br />
+<br />
+God speed the hour, the glorious hour,<br />
+When none on earth<br />
+Shall exercise a lordly power,<br />
+Nor in a tyrant's presence cower;<br />
+But to all manhood's stature tower,<br />
+By equal birth!<br />
+That hour will come, to each, to all,<br />
+And from his Prison-house, to thrall<br />
+Go forth.<br />
+<br />
+Until that year, day, hour, arrive,<br />
+With head, and heart, and hand I'll strive,<br />
+To break the rod, and rend the gyve,<br />
+The spoiler of his prey deprive --<br />
+So witness Heaven!<br />
+And never from my chosen post,<br />
+Whate'er the peril or the cost,<br />
+Be driven.<br />
+<br />
 
-God speed the day when human blood
-Shall cease to flow!
-In every clime be understood,
-The claims of human brotherhood,
-And each return for evil, good,
-Not blow for blow;
-That day will come all feuds to end,
-And change into a faithful friend
-Each foe.
-
-God speed the hour, the glorious hour,
-When none on earth
-Shall exercise a lordly power,
-Nor in a tyrant's presence cower;
-But to all manhood's stature tower,
-By equal birth!
-That hour will come, to each, to all,
-And from his Prison-house, to thrall
-Go forth.
-
-Until that year, day, hour, arrive,
-With head, and heart, and hand I'll strive,
-To break the rod, and rend the gyve,
-The spoiler of his prey deprive --
-So witness Heaven!
-And never from my chosen post,
-Whate'er the peril or the cost,
-Be driven.
-
-
-
+---
 
 Foner, P.S. (1950). *The Life and Writings of Frederick Douglass, Volume II, Pre-Civil War Decade 1850-1860.* New York, NY: International Publishers Co., Inc.
