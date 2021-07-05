@@ -1,6 +1,6 @@
 ---
 title: "Frederick Douglass' Rejoinder"
-date: 2021-07-05
+date: 2021-07-05 06:00:00
 layout: post
 comments: true
 
