@@ -28,8 +28,8 @@ Well, Steinbeck thought these folks were *good people of laughter and kindness, 
 
 Despite the success of the book, and the positive critical attention, these sycophants displayed an inability to process his descriptions as anything other than caricatures of *undesirable things*. Well, buddy, he won't cause them future trouble and discord caused by misunderstanding, by not trying to describe them again. (And because I am a cynical person, I'd liked to believe that he muttered the word "morons" to himself at the end of his foreword)
 
+--- 
 
-
-[^1]: According to [Vocabulary.com](https://www.vocabulary.com/dictionary/vulgar) vulgar can means**adjective**  *lacking refinement or cultivation or taste*, “appealing to the vulgar taste for violence”, “the vulgar display of the newly rich”, synonyms: coarse, common, rough-cut, uncouth,unrefined, (used of persons and their behavior) not refined; uncouth
+[^1]: According to [Vocabulary.com](https://www.vocabulary.com/dictionary/vulgar) vulgar can mean **adjective**  *lacking refinement or cultivation or taste*, “appealing to the vulgar taste for violence”, “the vulgar display of the newly rich”, synonyms: coarse, common, rough-cut, uncouth,unrefined, (used of persons and their behavior) not refined; uncouth
 
 [^2]: According to [Vocabulary.com](https://www.vocabulary.com/dictionary/decent), decent can mean   **adjective** *socially or conventionally correct; refined or virtuous*, “from a decent family”, synonyms: nice, respectable, characterized by socially or conventionally acceptable morals
