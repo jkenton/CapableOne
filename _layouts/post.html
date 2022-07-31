@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+<header>
+	<header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1> 
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+<!-- This is a comment -->
+ {% if page.comments %}
+
+
+<h4>Comments?</h4>
+
+{% include disqus.html %}
+
+
+ {% endif %}
+
+<!--		<script src="https://utteranc.es/client.js"
+		        repo="jkenton/CapableOne"
+		        issue-term="title"
+		        theme="github-light"
+						label="Comment"
+		        crossorigin="anonymous"
+		        async>
+		</script> -->
+
+	<!--END COMMENTS-->
+
+  </div>
+
+
+</article>
+
+
+
+<div class="post-categories">
+{% if post.categories %}
+<h3>Categories:</h3>
+{% endif %}
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+
+  {% for category in categories %}
+  <!-- <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a> -->
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+
+</div>

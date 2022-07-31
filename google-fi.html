@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /google-fi/
+title:
+---
+<img src="{{site.baseurl}}/images/google-fi.png">
+<p>
+I am a <a href="https://productexperts.withgoogle.com/what-it-is">"Product Expert"</a> with Google Fi. In a nutshell, I volunteer to respond on some public discussion forums, trying to help folks find answers to their questions or challenges relate to Google Fi.
+
+Eventually, this list below will fill up with articles, videos, etc that I have made along the way to help people get going, or get the most out of the experience.
+</p>
+<ul>
+  {% for post in site.categories.google-fi %}
+    {% if post.url %}
+        <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4></li>
+    {% endif %}
+  {% endfor %}
+</ul>
