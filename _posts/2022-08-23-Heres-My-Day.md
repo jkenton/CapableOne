@@ -1,5 +1,5 @@
 ---
-title: "Here's My Day, August 23, 2022"
+title: "Here's My Day August 23, 2022"
 date: 2022-08-23 06:00:00
 layout: post
 comments: true
