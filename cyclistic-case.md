@@ -1,11 +1,12 @@
 ---
-title: "Cyclistic Bike Share Case Study"
+title: "Case Study"
 layout: page
 permalink: /data/cyclistic/
 ---
 
+## Cyclistic Bike Share Case Study
 
-### Ask
+### Task
 
 The task is to
 
@@ -47,22 +48,22 @@ Another significant concern with the data was a substantial drop noted in the Ma
 
 One fairly clear difference between casual and member riders was seen in the difference of average ride duration. Whereas the members were fairly consistent in their average usage as a group (12 mins and 29 seconds, plus or minus two minutes), casual riders made longer rides on average (28 mins and 40 seconds, plus or minus four minutes). This difference was consistent for every month. (Casual rides are shown in red, member rides are shown in blue)
 
-[image:casual_longer_rides.png]
+ <img src="/images/casual_longer_rides.png" alt="This image shows that casual rides are longer on average than members' rides">
 
 Another difference between the two groups was in number of rides. Members used the system far more frequently than casual users. One additional insight in the graphic is that the overall rate of ridership declines between the months of November and April, which coincides with Winter in Chicago. (Casual rides are shown in red, member rides are shown in blue.)
 
-[image: casual_more_rides]
+<img src="/images/casual_more_rides.png" alt="This image shows that overall, members take more rides than casual riders do.">
   
 These insights alone are not particularly useful, so I dug a little deeper to see whether there were weekday-weekend differences in addition to these monthly trends.
 
 #### Weekday differences
 This graphic shows that there are far more member riders on weekdays, when compared to casual riders. For this analysis, Weekdays were considered Monday through Thursday. With only very rare exceptions in May and June, the number of member riders clearly exceeds casual riders. To make the distinction more clear, the causal rider information is rendered in color, while the member rider information is in gray. 
 
-[image:weekday_rides]
+<img src="/images/weekday_rides.png" alt="This image shows that members take more rides on weekdays than casual riders do.">
 
 Continuing the trend, this graphic shows that casual riders use the bikers far longer per ride when compared to members.
 
-[image: weekday_duration]
+<img src="/images/weekday_duration.png" alt="This image shows that on weekdays, casual users ride their bikes far longer than members do.">
 
 #### Weekend Differences
 
@@ -70,11 +71,11 @@ A number of differences appear when the weekend days are separated from the week
 
 The number of casual rides exceeds the member rides on Saturday and Sunday in the months of May, June, July, and September. The number of casual rides on Saturday also exceeds member rides in August. To make the distinction more clear, the causal rider information is rendered in color, while the member rider information is in gray.
 
-[image: weekend_rides.png]
+<img src="/images/weekend_rides.png" alt="This image shows that weekend casual riders outnumber member riders on certain days.">
 
 Weekend casual rides continue to be longer than weekend member rides. The member ride information is rendered in gray, and the casual ride information is in color. To help make the distinction more clear, an average casual duration line is included in dark red, and an average member duration line is included in dark blue.
 
-[image: weekend_duration.png]
+<img src="/images/weekend_duration.png" alt="This image shows that weekend casual riders use their bikes longer than members do.">
 
 #### Summary
 
@@ -82,7 +83,3 @@ Weekend casual rides continue to be longer than weekend member rides. The member
 
 ### Recommendations
 
-<figure>
- <img src="/images/EDIT ME" alt="EDIT ME">
- <figcaption>EDIT ME</figcaption>
-</figure>
