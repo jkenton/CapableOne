@@ -79,6 +79,8 @@ The number of casual rides exceeds the member rides on Saturday and Sunday in th
 
 <img src="/images/weekend_rides.png" alt="This image shows that weekend casual riders outnumber member riders on certain days.">
 
+Also of particular note is the almost linear increase among casual Saturday riders between the months of February and July. A similar linear increase is seen in casual Sunday riders from April to July.
+
 ---
 
 Weekend casual rides continue to be longer than weekend member rides. The member ride information is rendered in gray, and the casual ride information is in color. To help make the distinction more clear, an average casual duration line is included in dark red, and an average member duration line is included in dark blue.
@@ -96,3 +98,8 @@ Weekend casual rides continue to be longer than weekend member rides. The member
 
 ### Recommendations
 
+The business goal is to attract more casual riders to become members. There are several sources of important differences between casual and member riders, to allow a marketing message to be targeted narrowly to casual users. 
+
+Any rider who uses their bike more than 20 minutes, whether weekday or weekend, is likely to be a casual rider. Upon check-in, a rider who has used the bike more than 20 minutes may be receptive to a message that outlines the benefits of membership. These riders may receive a special offer code on their check-in receipt that incentivizes becoming a member while closing out their current ticket.
+
+Any casual rider on Saturday or Sunday, between the months of March and August, may be receptive to a message that outlines the benefits of membership. Flyers, posters, abnners at all locations between March and August can publicize the benefits of membership, with a QR code to access a webpage featuring membership rates, or special discounts for riders that join during March through August.
