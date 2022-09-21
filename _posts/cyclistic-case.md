@@ -1,7 +1,7 @@
 ---
 title: "Cyclistic Bike Share Case Study"
 date: 2022-09-21 06:00:00
-layout: post
+layout: page
 comments: true
 ---
 
