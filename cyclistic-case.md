@@ -1,7 +1,7 @@
 ---
 title: "Case Study"
 layout: page
-permalink: /data/cyclistic/
+permalink: /data/cyclistic-case/
 ---
 
 ## Cyclistic Bike Share Case Study
@@ -100,6 +100,10 @@ Weekend casual rides continue to be longer than weekend member rides. The member
 
 The business goal is to attract more casual riders to become members. There are several sources of important differences between casual and member riders, to allow a marketing message to be targeted narrowly to casual users. 
 
-Any rider who uses their bike more than 20 minutes, whether weekday or weekend, is likely to be a casual rider. Upon check-in, a rider who has used the bike more than 20 minutes may be receptive to a message that outlines the benefits of membership. These riders may receive a special offer code on their check-in receipt that incentivizes becoming a member while closing out their current ticket.
+1. Any rider who uses their bike more than 20 minutes, whether weekday or weekend, is likely to be a casual rider. Upon check-in, a rider who has used the bike more than 20 minutes may be receptive to a message that outlines the benefits of membership. These riders may receive a special offer code on their check-in receipt that incentivizes becoming a member while closing out their current ticket.
 
-Any casual rider on Saturday or Sunday, between the months of March and August, may be receptive to a message that outlines the benefits of membership. Flyers, posters, abnners at all locations between March and August can publicize the benefits of membership, with a QR code to access a webpage featuring membership rates, or special discounts for riders that join during March through August.
+2. Any casual rider on Saturday or Sunday, between the months of March and August, may be receptive to a message that outlines the benefits of membership. These are the days and months when casual riders outnumber members.
+
+3. Flyers, posters, banners at all locations between March and August can publicize the benefits of membership, with a QR code to access a webpage featuring membership rates, or special discounts for riders that join during March through August. These are the months that casual riders outnumber members.
+
+4. The billing system knows which riders are casual and which are members.  Incentives to become members can be offered to ALL casual riders at check-in time.
