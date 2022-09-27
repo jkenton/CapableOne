@@ -17,8 +17,7 @@ The task is to
   
 
 ## METHOD
-
-  
+ 
 
 The data I analyzed to visualize these relevant differences came from the Cyclistic Bike Share data repository. I downloaded all data from September 2021 to August 2022 inclusive. This consisted of 12 zip files, each containing one month's worth of ridership data.
 
@@ -26,13 +25,16 @@ I extracted the zip files to a local computer, and made archive copies of the or
 
 I then loaded the files into Microsoft Excel and familiarized myself with the data. The data sets each contained columns for unique ride ID, type of bike, start time, end time, start location, end location, ridership (member or casual) and then a GPS coordinate for start location and end location. To assist data analysis, I created two new columns. One was created to provide information about ride duration, the other was created to identify the day of the week for each of the rides.
 
-While investigating the data sets, each of them displayed a fairly common pattern. The columns devoted to start location and end location had an exceptional number of missing values. After verifying that the data problem was worst for location-to-location trends, and not rideership information, I elected to remove columns that had location-related data to simplify the analysis materials. The concerns footnote has more detail about this decision.[^1] The trimmed data contained seven columns: ride ID, bike type, start time, end time, member/casual, ride duration, and the day of the week.
+While investigating the data sets, the columns devoted to start location and end location had an exceptional number of missing values. After verifying that the data problem was worst for location-to-location trends, and not rideership information, I elected to remove columns that had location-related data to simplify the analysis materials. The concerns footnote has more detail about this decision.[^1] The trimmed data contained seven columns: ride ID, bike type, start time, end time, member/casual, ride duration, and the day of the week.
 
 The 12 data sets were then loaded into RStudio for further analysis. To this data, I loaded libraries for tidyverse, dplyr, chron, and lubridate. Chron and lubridate were necessary to deal with the time-based values stored in the ride duration column.
 
 The descriptive table below shows the number of rides purchased in a given time frame, and the number of those rides taken by members, or by casual riders.
 
 ## RESULTS
+
+---
+
 ### DESCRIPTIVE INFORMATION
 
 |Segment |Total Rides | Members | Casual|
@@ -57,6 +59,7 @@ Interpretation: The table shows that the months of June through September each h
 [^1]: I noted that many of the data records were missing information related to starting GPS location, ending GPS location, and also many were missing data related to the station where the bikes were originally rented, and where they were returned. Since the question was only concerned with differences in patterns of use volume, rather than more qualititative concerns (like which depot would benefit from having more bikes available on given days), I made copies of the data files, and omitted the columns related to starting and ending locations and stations from the data files that generated the visualizations above.<br>If a future analysis is undertaken regarding the begin- and end-points of the ride segments, a method must be created to deal with this substantial volume of missing data.
 
 ---
+
 ### Annualized Data
 Figure 1 shows the Annual summary of rides, broken down by membership status (member v. casual)
 
@@ -85,7 +88,9 @@ Figure 4:<br/>
 <img src="/images/ann_summ_bike_member_day_of_week.png" alt="This image shows the annual summary of membership, bike type, and day of the week">
 
 Interpretation: Whereas members maintained their preference for classic bikes throughout the week, casual riders preferred electric bikes during the week, and were equally interested in classic and electric bikes on weekends.
+
 ---
+
 ### Seasonal Data
 
 For the analysis, the data were grouped into four seasonal blocs: July, August, and September were grouped as "Summer"; October, November, and December were grouped as "Autumn"; January, February, and March were grouped as 
@@ -118,6 +123,7 @@ Interpretation: Members continue to favor classic bikes over electric, though th
 
 
 ---
+
 #### Winter
 Figures 9, 10, 11, and 12 will show the same segmentation of the data as the annualized Figures 1-4.
 
@@ -140,7 +146,9 @@ Figure 12:<br/>
 <img src="/images/win_summ_bike_member_day_of_week.png" alt="This image shows the Winter summary of membership, bike type, and day of the week">
 
 Interpretation: Figure 12 shows that members continue to prefer classic bikes over electric. The usage trends for casual look virtually the same for everyday of the week, continuing the casual rider preference for electric bikes over classic.
+
 ---
+
 #### Spring
 Figures 13, 14, 15, and 16 will show the same segmentation of the data as the annualized Figures 1-4.
 
@@ -167,7 +175,7 @@ Interpretation: Members continue to favor classic bikes over electric. Casual ri
 ---
 #### Summer
 
-Figures 17, 18, 19, and 20 will show the same segmentation of the data as the annualized Figures 1-4.
+Figures 17, 18, 19, and 20 will show the same segmentation of the data as the annualized Figures 1-4. Summer has > 40% of all rides in the system.
 
 Figure 17:<br/>
 <img src="/images/sum_summ_num.png" alt="This image shows the Summer summary of rides by day of the week">
@@ -189,7 +197,9 @@ Figure 20:<br/>
 <img src="/images/sum_summ_bike_member_day_of_week.png" alt="This image shows the Summer summary of membership, bike type, and day of the week">
 
 Interpretation: Members continue to favor classic bikes over electric. Casual riders favored electric bikes during the week, and were at parity on weekends.
+
 ---
+
 ### DISCUSSION
 There are several common themes across the data as it has been analyzed here:
 1. Casual users - on average - use their bikes longer than member users. Docked users (who are all casual users) use their bikes - on average - twice as long as casual users.
