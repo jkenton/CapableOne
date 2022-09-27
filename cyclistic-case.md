@@ -171,17 +171,14 @@ Figure 20:<img src="/images/sum_summ_bike_member_day_of_week.png" alt="This imag
 Interpretation: Members continue to favor classic bikes over electric. Casual riders favored electric bikes during the week, and were at parity on weekends.
 
 #### DISCUSSION
-
-
-
-
-#### Summary
-1. In all cases, average casual riders uses their bikes longer than  member riders.<br/>
-2. In all weekday cases, members use the service more often than casual users do.<br/>
-2. In virtually every weekend model, member riders use the service more than casual users do.<br/>
-    a. Casual Saturday riders exceed members in number of rides for all months May through October.<br/>
-    b. Casual Sunday riders exceed members in number of rides in May through July and September.<br/>
-    c. Casual Friday riders exceed members in June.<br/>
+There are several common themes across the data as it has been analyzed here:
+1. Casual users - on average - use their bikes longer than member users. Docked users (who are all casual users) use their bikes - on average - twice as long as casual users.
+2. Casual users tend to outnumber member users on weekends, except during the Winter. 
+3. Casual users tend to choose electric bikes more often than classic bikes
+4. Summer use is the highest across all seasons (Summer is 40.2% of all use)
+5. Winter has the lowest use rate of all seasons (8.5% of all rides)
+6. If the data files were more consistent about including begin- and endpoint station information, the analysis could have provided more direct suggestions for improvement
+7. 
 
 
 ### Recommendations
