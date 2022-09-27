@@ -60,17 +60,20 @@ Interpretation: The table shows that the months of June through September each h
 #### Annualized Data
 Figure 1 shows the Annual summary of rides, broken down by membership status (member v. casual)
 
-Figure 1:<img src="/images/ann_summ_num.png" alt="This image shows the annual summary of rides by day of the week">
+Figure 1:
+<img src="/images/ann_summ_num.png" alt="This image shows the annual summary of rides by day of the week">
 
 The graphic shows that the members vary between 400,000 and 550,000. The membership curve has an inverted-U shape, with low numbers on Saturday and Sunday, and highest numbers on Wednesday. The casual rider curve is almost the opposite. The casual rider curve is a U-shape, and ride numbers varied between 275,000 to 510,000, with low point on Tuesday, and high points on Saturday and Sunday.
 
 There are two additional ways to visualize this annual data. One is by bike type ridden (classic, electric, or docked), and the other is by ride duration. Figure 2 shows the annual ride data summarized by bike type. Figure 3 shows the annual summary of ride duration by bike type and membership.
 
-Figure 2: <img src="/images/ann_summ_bike_type.png" alt="This image shows the annual summary of rides by bike type">
+Figure 2: 
+<img src="/images/ann_summ_bike_type.png" alt="This image shows the annual summary of rides by bike type">
 
 Interpretation: There are two principal types of bikes, classic and electric. During weekdays, there is no substantial preference between the two types. On weekends, there does seem to be a preference for classic bikes over electric. One thing to note is that "docked bikes" were only used by casual riders. The use od docked bikes showed similar trends with typical casual rider behavior with maximum use on weekends and a U-shaped curve during the week, with a low point on Wednesday.
 
-Figure 3:<img src="/images/ann_summ_duration_bike_member.png" alt="This image shows the annual summary of ride duration bike type, membership, and by day of the week">
+Figure 3:
+<img src="/images/ann_summ_duration_bike_member.png" alt="This image shows the annual summary of ride duration bike type, membership, and by day of the week">
 
 Interpretation: The usage trends are clear on a yearly scale. Docked bike rides are substantially longer (though they account for the fewest number of rides as shown in Figure 2) than any other use. In descending order, casual classic and electric bike rides showed longer durations than member rides. Casual rides also had a similar U-shape to the number of rides, with shortest rides in midweek, and longer rides on weekends. Member rides seemed very consistent in duration, with classic bikes being used more often than electric. 
 
@@ -78,7 +81,8 @@ One may make the assumption that casual riders use the bikes in different ways w
 
 Figure 4 shows the overall summary of bike type, membership, and day of the week.
 
-Figure 4:<img src="/images/ann_summ_bike_member_day_of_week.png" alt="This image shows the annual summary of membership, bike type, and day of the week">
+Figure 4:
+<img src="/images/ann_summ_bike_member_day_of_week.png" alt="This image shows the annual summary of membership, bike type, and day of the week">
 
 Interpretation: Whereas members maintained their preference for classic bikes throughout the week, casual riders preferred electric bikes during the week, and were equally interested in classic and electric bikes on weekends.
 
@@ -91,20 +95,24 @@ For the analysis, the data were grouped into four seasonal blocs: July, August, 
 
 Figures 5, 6, 7, and 8 will show the same segmentation of the data as the annualized Figures 1-4.
 
-Figure 5:<img src="/images/aut_summ_num.png" alt="This image shows the Autumn summary of rides by day of the week">
+Figure 5:
+<img src="/images/aut_summ_num.png" alt="This image shows the Autumn summary of rides by day of the week">
 
 
 Interpretation: Total number of member rides is greater that casual rides across all days of the week. Trends continue, with number of member rides higher in midweek than on weekends. Likewise, and in opposition to the member rides, casual rides have their highest values on weekends, and lowest during the week.
 
-Figure 6:<img src="/images/aut_summ_bike_type.png" alt="This image shows the Autumn summary of rides by bike type">
+Figure 6:
+<img src="/images/aut_summ_bike_type.png" alt="This image shows the Autumn summary of rides by bike type">
 
 Interpretation: The bike type data begins to show a preference for electric bikes every weekday, and closer to parity with classic bikes on weekends.
 
-Figure 7:<img src="/images/aut_summ_duration_bike_member.png" alt="This image shows the Autumn summary of ride duration bike type, membership, and by day of the week">
+Figure 7:
+<img src="/images/aut_summ_duration_bike_member.png" alt="This image shows the Autumn summary of ride duration bike type, membership, and by day of the week">
 
 Interpretation: The ranking of duration by membership and by bike type is very similar to Figure 3, with docked, casual-classic, casual-electric, member-classic, and member-electric in descending rank order.
 
-Figure 8:<img src="/images/aut_summ_bike_member_day_of_week.png" alt="This image shows the Autumn summary of membership, bike type, and day of the week">
+Figure 8:
+<img src="/images/aut_summ_bike_member_day_of_week.png" alt="This image shows the Autumn summary of membership, bike type, and day of the week">
 
 Interpretation: Members continue to favor classic bikes over electric, though there was parity between electric and classic bikes on Thursdays and Fridays. Casual riders clearly favored electric bikes each day, and docked bike usage continued the same U-shape curve, with greater use on weekends and far less on weekdays.
 
@@ -113,38 +121,46 @@ Interpretation: Members continue to favor classic bikes over electric, though th
 ##### Winter
 Figures 9, 10, 11, and 12 will show the same segmentation of the data as the annualized Figures 1-4.
 
-Figure 9:<img src="/images/win_summ_num.png" alt="This image shows the Winter summary of rides by day of the week">
+Figure 9:
+<img src="/images/win_summ_num.png" alt="This image shows the Winter summary of rides by day of the week">
 
 Interpretation: In winter, member ridership continues its inverted-U shape trend; with ~40,000 rides each weekend day and ~60,000 on weekdays. Casual ridership falls off substantially. Casual ridership is consistent between 12,000 and 23,000 rides
 
-Figure 10:<img src="/images/win_summ_bike_type.png" alt="This image shows the Winter summary of rides by bike type">
+Figure 10:
+<img src="/images/win_summ_bike_type.png" alt="This image shows the Winter summary of rides by bike type">
 
 Interpretation: There is more parity across the winter season between electric and classic bikes.
 
-Figure 11:<img src="/images/win_summ_duration_bike_member.png" alt="This image shows the Winter summary of ride duration bike type, membership, and by day of the week">
+Figure 11:
+<img src="/images/win_summ_duration_bike_member.png" alt="This image shows the Winter summary of ride duration bike type, membership, and by day of the week">
 
 Interpretation: Similar to other trend graphics, usage is in descending order: docked, casual-classic, casual-electric, member-classic, member-electric.
 
-Figure 12:<img src="/images/win_summ_bike_member_day_of_week.png" alt="This image shows the Winter summary of membership, bike type, and day of the week">
+Figure 12:
+<img src="/images/win_summ_bike_member_day_of_week.png" alt="This image shows the Winter summary of membership, bike type, and day of the week">
 
 Interpretation: Figure 12 shows that members continue to prefer classic bikes over electric. The usage trends for casual look virtually the same for everyday of the week, continuing the casual rider preference for electric bikes over classic.
 
 ##### Spring
 Figures 13, 14, 15, and 16 will show the same segmentation of the data as the annualized Figures 1-4.
 
-Figure 13:<img src="/images/spr_summ_num.png" alt="This image shows the Spring summary of rides by day of the week">
+Figure 13:
+<img src="/images/spr_summ_num.png" alt="This image shows the Spring summary of rides by day of the week">
 
 Interpretation: Figure 13 shows that casual ridership exceeds member ridership on weekends, and has substantially rebounded from Winter numbers on other days of the week. Similar to other seasons, member ridership shows the inverted-U shape trend with highest ridership mid week, and lower on weekends.
 
-Figure 14:<img src="/images/spr_summ_bike_type.png" alt="This image shows the Spring summary of rides by bike type">
+Figure 14:
+<img src="/images/spr_summ_bike_type.png" alt="This image shows the Spring summary of rides by bike type">
 
 Interpretation: There is a clear preference for classic bikes in the Spring. Overall number of rides remains consistent across weekdays and weekends.
 
-Figure 15:<img src="/images/spr_summ_duration_bike_member.png" alt="This image shows the Spring summary of ride duration bike type, membership, and by day of the week">
+Figure 15:
+<img src="/images/spr_summ_duration_bike_member.png" alt="This image shows the Spring summary of ride duration bike type, membership, and by day of the week">
 
 Interpretation: Similar to other trend graphics, usage is in descending order: docked, casual-classic, casual-electric, member-classic, member-electric. Across the board, each type of ride (on average) is longer than in Winter.
 
-Figure 16:<img src="/images/spr_summ_bike_member_day_of_week.png" alt="This image shows the Spring summary of membership, bike type, and day of the week">
+Figure 16:
+<img src="/images/spr_summ_bike_member_day_of_week.png" alt="This image shows the Spring summary of membership, bike type, and day of the week">
 
 Interpretation: Members continue to favor classic bikes over electric. Casual riders favored electric bikes during the week, and were at parity on weekends.
 
@@ -153,20 +169,24 @@ Interpretation: Members continue to favor classic bikes over electric. Casual ri
 
 Figures 17, 18, 19, and 20 will show the same segmentation of the data as the annualized Figures 1-4.
 
-Figure 17:<img src="/images/sum_summ_num.png" alt="This image shows the Summer summary of rides by day of the week">
+Figure 17:
+<img src="/images/sum_summ_num.png" alt="This image shows the Summer summary of rides by day of the week">
 
 Interpretation: In summer, the number of casual rides far outnumbers member rides on weekends. Member rides continue the familiar inverted-U shape across all seven days, with higher ride numbers mid week and lowest on weekends.
 
-Figure 18:<img src="/images/sum_summ_bike_type.png" alt="This image shows the Summer summary of rides by bike type">
+Figure 18:
+<img src="/images/sum_summ_bike_type.png" alt="This image shows the Summer summary of rides by bike type">
 
 Interpretation: Across the board, classic bikes are favored over electric. This may indicate that there are fewer electric bikes, given the substantial general increase in ridership numbers.
 
-Figure 19:<img src="/images/sum_summ_duration_bike_member.png" alt="This image shows the Summer summary of ride duration bike type, membership, and by day of the week">
+Figure 19:
+<img src="/images/sum_summ_duration_bike_member.png" alt="This image shows the Summer summary of ride duration bike type, membership, and by day of the week">
 
 Interpretation: In this area, usage trends are the same as every other grouping. Usage is in descending order: docked, casual-classic, casual-electric, member-classic, member-electric. Across the board, each type of ride (on average) is longer than in Winter.
 
 
-Figure 20:<img src="/images/sum_summ_bike_member_day_of_week.png" alt="This image shows the Summer summary of membership, bike type, and day of the week">
+Figure 20:
+<img src="/images/sum_summ_bike_member_day_of_week.png" alt="This image shows the Summer summary of membership, bike type, and day of the week">
 
 Interpretation: Members continue to favor classic bikes over electric. Casual riders favored electric bikes during the week, and were at parity on weekends.
 
