@@ -24,25 +24,36 @@ The data I analyzed to visualize these relevant differences came from the Cyclis
 
 I extracted the zip files to a local computer, and made archive copies of the original CSV files.  
 
-I then loaded the files into Microsoft Excel and familiarized myself with the data. To assist data analysis, I created two new columns. One was created to provide information about ride duration, the other was created to identify the day of the week for each of the rides.
+I then loaded the files into Microsoft Excel and familiarized myself with the data. The data sets each contained columns for unique ride ID, type of bike, start time, end time, start location, end location, ridership (member or casual) and then a GPS coordinate for start location and end location. To assist data analysis, I created two new columns. One was created to provide information about ride duration, the other was created to identify the day of the week for each of the rides.
 
-After seeing that the data problem only affected location-to-location trends, and not riedership information, I elected to remove columns that had location-related data to simplify the analysis materials. The concerns section has more detail about this decision.
+While investigating the data sets, each of them displayed a fairly common pattern. The columns devoted to start location and end location had an exceptional number of missing values. After verifying that the data problem was worst for location-to-location trends, and not rideership information, I elected to remove columns that had location-related data to simplify the analysis materials. The concerns section has more detail about this decision. The trimmed data contained seven columns: ride ID, bike type, start time, end time, member/casual, ride duration, and the day of the week.
 
-I assured that each of the thus-reduced data files had all pertinent data for the ridership questions. There were no missing values across the twelve data files. There was information about all 5,883,043 ride segments.
+The 12 data sets were then loaded into RStudio for further analysis. To this data, I loaded libraries for tidyverse, dplyr, chron, and lubridate. Chron and lubridate were necessary to deal with the time-based values stored in the ride duration column.
 
-I completed a pivot table analysis of the data, using casual-member as the row information, day-of-the-week as column information, and values came from the count of rides, and the average duration of rides.
+### DESCRIPTIVE INFORMATION
 
-From this information, a summary table was created, showing monthly break-downs of daily average ride length and number of rides for both members and casual riders.
+|Segment |Total Rides | Members | Casual|
+|---|---|---|---|
+|Annual| 5883043|3414564|2468479|
+|September|756147|392257|363890|
+|October|631226|373984|257242|
+|November|359978|253049|106929|
+|December|247540|177802|69738|
+|January|103770|85250|18520|
+|February|115609|94193|21416|
+|March|284042|194160|89882|
+|April|371249|244832|126417|
+|May|634858|354443|280415|
+|June|769204|400153|369051|
+|July|823488|417433|406055|
+|Aug|785932|427008|358924|
 
-The summary table was used to create some visualizations that helped to identify important differences between members and casual users. What follows is an annotated graphic summary of the data files, with interpretation that may become useful for marketing purposes.
 
 #### CONCERNS
 
 I noted that many of the data records were missing information related to starting GPS location, ending GPS location, and also many were missing data related to the station where the bikes were originally rented, and where they were returned. Since the question was only concerned with differences in patterns of use volume, rather than more qualititative concerns (like which depot would benefit from having more bikes available on given days), I made copies of the data files, and omitted the columns related to starting and ending locations and stations from the data files that generated the visualizations above.
 
 If a future analysis is undertaken regarding the begin- and end-points of the ride segments, a method must be created to deal with this substantial volume of missing data.
-
-Another significant concern with the data was a substantial drop noted in the May data set related to casual Thursday bikers.
 
 ### RESULTS
 
