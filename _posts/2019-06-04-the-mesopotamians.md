@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Mesopotamians - They Might Be Giants"
-categories: music youtube silly
 date: 2019-06-04
 ---
 
