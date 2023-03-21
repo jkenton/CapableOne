@@ -16,6 +16,7 @@ permalink: date
 future: false
 show_drafts: false
 comments: true
+search_enabled: true
 
 # Build settings
 # theme: minima
