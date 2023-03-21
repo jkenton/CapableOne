@@ -17,6 +17,8 @@ future: false
 show_drafts: false
 comments: true
 search_enabled: true
+search.button: true
+
 
 # Build settings
 # theme: minima
