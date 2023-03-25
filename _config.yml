@@ -16,8 +16,9 @@ permalink: date
 future: false
 show_drafts: false
 comments: true
-search_enabled: true
-search.button: true
+# nothing told me so directly, but build errors started appearing as soon as I added these two config entries in this file
+# search_enabled: true
+# search.button: true
 
 
 # Build settings
