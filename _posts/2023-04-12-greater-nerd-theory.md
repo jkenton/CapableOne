@@ -11,7 +11,7 @@ comments: true
 
 There is always a greater nerd. Always.
 
-I thought I was a pretty big nerd for adapting a two-dice, tabletop baseball game into a three dice tabletop baseball game. You know, to more naturally account for the probabilities of infrequent things (like hitting a triple).
+I thought I was a pretty big nerd for adapting a two-dice, tabletop baseball game into a [three dice tabletop baseball game](https://thecapableone.com/2019/06/28/dice-baseball.html). You know, to more naturally account for the probabilities of infrequent things (like hitting a triple).
 
 And then I listened to Keith Olbermann's "Countdown" podcast. A nerd in his own right, Keith started at Cornell in his mid-teens (if you can believe wikipedia: "he enrolled at Cornell University at the age of 16."). And not just a nerd, a baseball nerd. 
 
