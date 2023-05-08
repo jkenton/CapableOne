@@ -8,7 +8,7 @@ comments: true
 <img src="/images/Kamil_Agnes.jpeg" alt="Image of Kamil and Agnes Shehade, from https://cnewa.org/">
 
 
-> [!Bible]- [Psalm 66:10-12 - NIV](https://bolls.life/NIV/19/66/)
+> [Psalm 66:10-12 - NIV](https://bolls.life/NIV/19/66/)
 > 10. For you, O God, tested us;<br/>you refined us like silver.
 > 11. You brought us into prison<br/>and laid burdens on our backs.
 > 12. You let men ride over our heads;<br/>we went through fire and water,<br/>but you brought us to a place of abundance.
@@ -26,5 +26,5 @@ Anyhow, as you get older, you realize that if you are ready for it, you can meet
 
 Earlier, I used a Psalm reference to discuss Kamil's Mission. But here is the one that they use on their website (so it's probably more apt):
 
-> [!Bible]- [Matthew 25:36 - NIV](https://bolls.life/NIV/40/25/)
+> [Matthew 25:36 - NIV](https://bolls.life/NIV/40/25/)
 > 36. I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
