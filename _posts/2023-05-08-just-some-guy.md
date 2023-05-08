@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-<img src="/images/Kamil_Agnes.jpg" alt="Image of Kamil and Agnes Shehade, from https://cnewa.org/">
+<img src="/images/Kamil_Agnes.jpeg" alt="Image of Kamil and Agnes Shehade, from https://cnewa.org/">
 
 
 > [!Bible]- [Psalm 66:10-12 - NIV](https://bolls.life/NIV/19/66/)
