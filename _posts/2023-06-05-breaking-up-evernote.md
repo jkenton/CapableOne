@@ -1,6 +1,6 @@
 ---
 title: "I'm breaking up with Evernote"
-date: 2023-05-16 06:00:00
+date: 2023-06-05 06:00:00
 layout: post
 comments: true
 ---
