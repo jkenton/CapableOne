@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
- <img src="/images/evernote-logo.png" alt="Old and New Evernote Logos">
+ <img src="/images/evernote_logo.png" alt="Old and New Evernote Logos">
 
 I've been with Evernote a long time. Since well before the days that they even offered cloud sync. I want to say something like 2006 or 2007? I used to carry Evernote portable on a USB thumbdrive.
 
