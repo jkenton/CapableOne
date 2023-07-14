@@ -11,46 +11,47 @@ categories: music youtube
 
 *She'll tell you she's an orphan, After you meet her family*
 
-She never mentions the word addiction
-In certain company
-Yes, she'll tell you she's an orphan
-After you meet her family
+Lyrics
+She never mentions the word addiction <br />
+In certain company<br />
+Yes, she'll tell you she's an orphan<br />
+After you meet her family<br /><br />
 
-She keeps a lock of hair in her pocket
-She wears a cross around her neck
-Yes the hair is from a little boy
-And the cross from someone she has not met
+She keeps a lock of hair in her pocket<br />
+She wears a cross around her neck<br />
+Yes the hair is from a little boy<br />
+And the cross from someone she has not met<br /><br />
 
-Not yet
+Not yet<br /><br />
 
-Chorus:
+Chorus:<br />
 
-Says she talks to angels
-Says they all know her name
-Oh yeah, she talks to angels
-Says they call her out by her name
+Says she talks to angels<br />
+Says they all know her name<br />
+Oh yeah, she talks to angels<br />
+Says they call her out by her name<br /><br />
 
-She don't know no lover
-None that I ever seen
-And to her that ain't nothing
-But to me it means, means everything
+She don't know no lover<br />
+None that I ever seen<br />
+And to her that ain't nothing<br />
+But to me it means, means everything<br /><br />
 
-She paints her eyes as black as night now
-She pulls those shades down tight
-Oh yeah there's a smile when the pain comes
-The pain gonna make everything alright
+She paints her eyes as black as night now<br />
+She pulls those shades down tight<br />
+Oh yeah there's a smile when the pain comes<br />
+The pain gonna make everything alright<br />
 
-Chorus
+Chorus<br /><br />
 
-She talks to angels
-Says they call her out by her name
-Oh yeah, yeah angels
-Call her out by her name
-Oh, oh, oh angels
-They call her out by her name
+She talks to angels<br />
+Says they call her out by her name<br />
+Oh yeah, yeah angels<br />
+Call her out by her name<br />
+Oh, oh, oh angels<br />
+They call her out by her name<br /><br />
 
-Oh, she talks to angels
-They call her out,
-Yeah, yeah call her out
-Don't you know that they call her out
-By her name
+Oh, she talks to angels<br />
+They call her out,<br />
+Yeah, yeah call her out<br />
+Don't you know that they call her out<br />
+By her name<br />

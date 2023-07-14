@@ -9,7 +9,7 @@ comments: true
 
 I've been with Evernote a long time. Since well before the days that they even offered cloud sync. I want to say something like 2006 or 2007? I used to carry Evernote portable on a USB thumbdrive.
 
-Then in 2008 they added sync, and I paid for that with alacrity. The ability to have a fully synced installation of Evernote on EVERY computer I used? Worth every penny/
+Then in 2008 they added sync, and I paid for that with alacrity. The ability to have a fully synced installation of Evernote on EVERY computer I used? Worth every penny!
 
 In August of 2009, I was appointed the Assistant Dean in the College of Education where I work. Evernote saved my bacon at least once a week for the entire seven years that I was working there. We even had an amazingly successful accreditation visit. My portfolio of responsibilities beyond accreditation was pretty extensive, and Evernote helped me there too.
 
