@@ -1,5 +1,5 @@
 ---
-title: "Van Halen - Big Bad Bill (is Sweet William now)"
+title: "Big Bad Bill (is Sweet William now) - Van Halen"
 date: 2023-09-11 06:00:00
 layout: post
 comments: true

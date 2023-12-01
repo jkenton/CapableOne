@@ -1,5 +1,5 @@
 ---
-title: "Bob Marley - Three Little Birds"
+title: "Three Little Birds - Bob Marley"
 date: 2023-11-25 06:00:00
 layout: post
 comments: true
