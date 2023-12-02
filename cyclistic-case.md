@@ -2,6 +2,7 @@
 title: "Case Study"
 layout: page
 permalink: /data/cyclistic-case/
+published: false
 ---
 
 # Cyclistic Bike Share Case Study
