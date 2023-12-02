@@ -1,7 +1,7 @@
 ---
 title: "Advent Calendar Spoilers"
 layout: page
-permalink: Spoilers
+permalink: spoilers.html
 ---
 
 |Date |- Dr. Kenton's Guess |- Actual Flavor |- Record|
