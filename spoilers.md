@@ -12,5 +12,7 @@ permalink: spoilers.html
 |December 4 |- Dark Chocolate |- Toasted Marshmallow|- 0/4|
 |December 5 |- Vanilla Bean |- White Chocolate |- 0/5|
 |December 6 |- Hazelnut |- Hazelnut |- 1/6|
+|December 7 |- Holiday Blend |- Gingerbread Cookie |- 1/7|
+|December 8 |- Chocolate Truffle |- Holiday Blend|- 1/8|
 
 Thanks for playing!
