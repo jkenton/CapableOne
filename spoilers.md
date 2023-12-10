@@ -15,5 +15,6 @@ permalink: spoilers.html
 |December 7 |- Holiday Blend |- Gingerbread Cookie |- 1/7|
 |December 8 |- Chocolate Truffle |- Holiday Blend|- 1/8|
 |December 9 |- Salted Caramel |- Chocolate Coconut|- 1/9|
+|December 10 |- Cookies and Cream |- Salted Caramel |- 1/10|
 
 Thanks for playing!
