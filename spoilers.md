@@ -16,5 +16,6 @@ permalink: spoilers.html
 |December 8 |- Chocolate Truffle |- Holiday Blend|- 1/8|
 |December 9 |- Salted Caramel |- Chocolate Coconut|- 1/9|
 |December 10 |- Cookies and Cream |- Salted Caramel |- 1/10|
+|December 11 |- Cookies and Cream |- Caramel Vanilla |- 1/11|
 
 Thanks for playing!
