@@ -17,5 +17,8 @@ permalink: spoilers.html
 |December 9 |- Salted Caramel |- Chocolate Coconut|- 1/9|
 |December 10 |- Cookies and Cream |- Salted Caramel |- 1/10|
 |December 11 |- Cookies and Cream |- Caramel Vanilla |- 1/11|
+|December 12 |- Chocolate Cherry |- Maple Cinnamon |- 1/12|
+|December 13 |- Glazed Cinnamon Roll |- Cookies and Cream |- 1/13 |
+
 
 Thanks for playing!
