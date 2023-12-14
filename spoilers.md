@@ -19,6 +19,7 @@ permalink: spoilers.html
 |December 11 |- Cookies and Cream |- Caramel Vanilla |- 1/11|
 |December 12 |- Chocolate Cherry |- Maple Cinnamon |- 1/12|
 |December 13 |- Glazed Cinnamon Roll |- Cookies and Cream |- 1/13 |
+|December 14 |- Hot Buttered Rum |- Hot Buttered Rum |- 2/14 |
 
 
 Thanks for playing!
