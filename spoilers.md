@@ -20,6 +20,7 @@ permalink: spoilers.html
 |December 12 |- Chocolate Cherry |- Maple Cinnamon |- 1/12|
 |December 13 |- Glazed Cinnamon Roll |- Cookies and Cream |- 1/13 |
 |December 14 |- Hot Buttered Rum |- Hot Buttered Rum |- 2/14 |
+|December 15 |- Amaretto |- Chocolate Cherry |- 2/15|
 
 
 Thanks for playing!
