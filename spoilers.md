@@ -23,6 +23,7 @@ permalink: spoilers.html
 |December 15 |- Amaretto |- Chocolate Cherry |- 2/15|
 |December 16 |- Amaretto |- Amaretto |- 3/16 |
 |December 17 |- Butter Toffee |- Butter Toffee |- 4/17|
+|December 18 |- Dark Chocolate |- Peppermint Mocha |- 4/18|
 
 
 Thanks for playing!
