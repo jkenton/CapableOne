@@ -25,7 +25,7 @@ permalink: spoilers.html
 |December 17 |- Butter Toffee |- Butter Toffee |- 4/17|
 |December 18 |- Dark Chocolate |- Peppermint Mocha |- 4/18|
 |December 19 |- Chocolate Truffle |- Dark Chocolate |- 4/19|
-
+|December 20 |- Chocolate Truffle |- Roasted Chestnut |- 4/20|
 
 
 Thanks for playing!
