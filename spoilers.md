@@ -26,6 +26,10 @@ permalink: spoilers.html
 |December 18 |- Dark Chocolate |- Peppermint Mocha |- 4/18|
 |December 19 |- Chocolate Truffle |- Dark Chocolate |- 4/19|
 |December 20 |- Chocolate Truffle |- Roasted Chestnut |- 4/20|
+|December 21 |- Chocolate Truffle |- Vanilla Bean |- 4/21|
+|December 22 |- Glazed Cinnamon Roll |- Glazed Cinnamon Roll |- 5/22|
+|December 23 |- Chocolate Truffle |- Chocolate Truffle |- 6/23 |
+
 
 
 Thanks for playing!
