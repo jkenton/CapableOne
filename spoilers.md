@@ -32,5 +32,6 @@ permalink: spoilers.html
 |December 24 |- Mint Mocha |- Mint Mocha |- 7/24|
 
 
+---
 
 Thanks for playing!
