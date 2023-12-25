@@ -29,6 +29,7 @@ permalink: spoilers.html
 |December 21 |- Chocolate Truffle |- Vanilla Bean |- 4/21|
 |December 22 |- Glazed Cinnamon Roll |- Glazed Cinnamon Roll |- 5/22|
 |December 23 |- Chocolate Truffle |- Chocolate Truffle |- 6/23 |
+|December 24 |- Mint Mocha |- Mint Mocha |- 7/24|
 
 
 
