@@ -12,6 +12,9 @@ comments: true
  <figcaption>from: https://gozen.com/8-ways-a-childs-anxiety-shows-up-as-something-else/</figcaption>
 </figure>
 
+--- 
+
+
 Sometimes, I am hard to get through to. Hard headed, you might say. Stubborn. Maybe even something less kind...
 
 In the last 24 hours, a number of very apt descriptors have come to my attention:
