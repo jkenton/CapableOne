@@ -29,7 +29,9 @@ Today, walking my do. Lil Rel Howery talking to Neal Brennan on Brennan's podcas
 
 On your back has two meanings, at least how I understand it. First, "on your back" can mean that a person is over-critical. Or it can mean that a person is dependent (or over-dependent) on you.
 
-Anxiety, for me, does feel like my loved ones are on my back. Now, I also understnad that people are on my back, in a dependency way, because I put them there. Truly, hardly anyone is TRULY on my back in a critical way. Yet, look at the graphic. Innocent comments really get through. Anger. Defiance. Overplanning. It's like the artist was describing my internal monologue... 
+Anxiety, for me, does feel like my loved ones are on my back, as opposed say to "on my side". 
+
+Now, I also understand that people are on my back, in a dependency way, because I put them there. Truly, hardly anyone is TRULY on my back in a critical way. Yet, look at the graphic. Innocent comments really get through. Anger. Defiance. Overplanning. It's like the artist was describing my internal monologue... 
 
 Except for the sleeping... I can fall asleep just about anywhere. And that sleeping anywhere WAS a point of contention growing up. I don't know why taking naps was such a hard thing for others to accept...
 
