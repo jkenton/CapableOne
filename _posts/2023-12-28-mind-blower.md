@@ -25,14 +25,14 @@ Your comfort zone is not a good benchmark."
 
 AND
 
-Today, walking my do. Lil Rel Howery talking to Neal Brennan on Brennan's podcast called "Blocks". Lil Rey and shared a comment from Jay-Z about the pressure Black people feel while doing creative works. He said, "you do feel like your community is on your back."
+Today, I was walking my dog. Lil Rel Howery was talking to Neal Brennan on Brennan's podcast called "Blocks". Lil Rey shared a comment he attributed to Jay-Z about the pressure he (Jay-Z) feels while doing creative works. He said, "you do feel like your community is on your back."
 
-On your back has two meanings, at least how I understand it. First, "on your back" can mean that a person is over-critical. Or it can mean that a person is dependent (or over-dependent) on you.
+"On your back" has two meanings, at least how I understand it. First, "on your back" can mean that a person is over-critical. Or it can mean that a person is dependent (or over-dependent) on you.
 
 Anxiety, for me, does feel like my loved ones are on my back, as opposed say to "on my side". 
 
-Now, I also understand that people are on my back, in a dependency way, because I put them there. Truly, hardly anyone is TRULY on my back in a critical way. Yet, look at the graphic. Innocent comments really get through. Anger. Defiance. Overplanning. It's like the artist was describing my internal monologue... 
+Now, I also understand that people are on my back, in a dependency way, because I put them there. Hardly anyone is TRULY on my back in a critical way. Yet, look at the graphic. Innocent comments really get through. Anger. Defiance. Overplanning. It's like the artist was describing my internal monologue... 
 
-Except for the sleeping... I can fall asleep just about anywhere. And that sleeping anywhere WAS a point of contention growing up. I don't know why taking naps was such a hard thing for others to accept...
+Except for the sleeping... I can fall asleep just about anywhere. And that sleeping anywhere WAS a point of contention growing up. I don't know why taking naps was such a hard thing for others to accept... That's one for another day.
 
 I've got something to chew on now. Let's GO!
