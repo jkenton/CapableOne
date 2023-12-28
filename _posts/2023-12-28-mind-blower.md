@@ -28,7 +28,7 @@ Your comfort zone is not a good benchmark."
 
 AND
 
-Today, I was walking my dog. Lil Rel Howery was talking to Neal Brennan on Brennan's podcast called "Blocks". Lil Rey shared a comment he attributed to Jay-Z about the pressure he (Jay-Z) feels while doing creative works. He said, "you do feel like your community is on your back, and you gotta do it for everybody." [Approx. 6:26 to 7:02, to include context]
+Today, I was walking my dog. Lil Rel Howery was talking to Neal Brennan on Brennan's podcast called "Blocks". Lil Rel shared a comment he attributed to Jay-Z about the pressure he (Jay-Z) feels while doing creative works. He said, "you do feel like your community is on your back, and you gotta do it for everybody." [Approx. 6:26 to 7:02, to include context]
 
 "On your back" has two meanings, at least how I understand it. First, "on your back" can mean that a person is over-critical. Or it can mean that a person is dependent (or over-dependent) on you.
 
