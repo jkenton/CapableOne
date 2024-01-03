@@ -24,8 +24,7 @@ Then Winston and I turned to complete our job. I mentally unpacked what I had se
 <ul><li>An older man (who I knew a tiny bit about from a previous hasty introduction a couple of years ago; he had a very authoritative and respectable job in the community) had fallen and now a stranger and his dog are offering to help him, leaving him a bit embarrassed, perhaps. 
 <li>A woman who is not strong enough to help him bodily is perhaps also a bit embarrassed at the situation and offers some comments to explain. 
 <li>The man takes the first opportunity to turn his back to me, and never says a word, except for telling his wife what he wants to do, and to ask her to move slightly so he can accomplish his goal. 
-<li>I was thanked for my willingness to help, as a way of saying good bye
-</ul>
+<li>I was thanked for my willingness to help, as a way of saying good bye.</ul>
 
 Yet, it seemed that every action was proper in its own way.
 
