@@ -12,7 +12,7 @@ comments: true
 
 I walk my dog Winston all over the neighborhood. I admit I let him choose the route most days. It is HIS business that we are going to attend to, so why do I feel like I need to decide for him? Mostly, I walk along looking generally straight ahead. People out in the front yards dont need my comments. If we make eye contact, I will say hello. Or if I come within, say, 10 feet of someone else, I will day hello. Today was not like most days.
 
-Yogi Berra was accurate when he is alleged to have said, "You can observe a lot just by watching." As Winston and I were walking past a neighbor's house, I heard a woman's voice say something like, "Have you fallen again?" So, I turned my attention about 90 degrees to my right to see an older gentleman sitting on the ground, after unsuccessfully trying to navigate himself into a walker with a fold-down seat.
+Yogi Berra was accurate when he is alleged to have said, "You can observe a lot by just watching." As Winston and I were walking past a neighbor's house, I heard a woman's voice say something like, "Have you fallen again?" So, I turned my attention about 90 degrees to my right to see an older gentleman sitting on the ground, after unsuccessfully trying to navigate himself into a walker with a fold-down seat.
 
 I yelled, "Do you need help?" to which the wife said, "I might." Winston was excited at the prospect of meeting a new person. In light of Winston's presence, I waited twenty or so feet away from them both. I wanted them to call on me to help, rather than to jump in and start helping.
 
@@ -22,13 +22,10 @@ Once Mr. Turnstile reached the grass, he was able to elevate his chest and head,
 
 Then Winston and I turned to complete our job. I mentally unpacked what I had seen: 
 
-<ul>
-<li>An older man (who I knew a tiny bit about from a previous hasty introduction a couple of years ago; he had a very authoritative and respectable job in the community) had fallen and now a stranger and his dog are offering to help him, leaving him a bit embarrassed, perhaps. 
-<li>A woman who is not strong enough to help him bodily is perhaps also a bit embarrassed at the situation and offers some comments to explain. 
-<li>The man takes the first opportunity to turn his back to me, and never says a word, except for telling his wife what he wants to do, and to ask her to move slightly so he can accomplish his goal. 
-<li>I was thanked for my willingness to help, as a way of saying good bye.
-
-<p>
+- An older man (who I knew a tiny bit about from a previous hasty introduction a couple of years ago; he had a very authoritative and respectable job in the community) had fallen and now a stranger and his dog are offering to help him, leaving him a bit embarrassed, perhaps. 
+- A woman who is not strong enough to help him bodily is perhaps also a bit embarrassed at the situation and offers some comments to explain. 
+- The man takes the first opportunity to turn his back to me, and never says a word, except for telling his wife what he wants to do, and to ask her to move slightly so he can accomplish his goal. 
+- I was thanked for my willingness to help, as a way of saying good bye.
 
 
 Yet, it seemed that every action was proper in its own way.
