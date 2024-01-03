@@ -28,7 +28,7 @@ Then Winston and I turned to complete our job. I mentally unpacked what I had se
 <li>The man takes the first opportunity to turn his back to me, and never says a word, except for telling his wife what he wants to do, and to ask her to move slightly so he can accomplish his goal. 
 <li>I was thanked for my willingness to help, as a way of saying good bye.
 
-<br />
+<p>
 
 
 Yet, it seemed that every action was proper in its own way.
