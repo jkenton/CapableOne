@@ -21,10 +21,14 @@ The gentleman seemed a little put off that a person would need to help him, to w
 Once Mr. Turnstile reached the grass, he was able to elevate his chest and head, and next got into a pose where he had one knee down, one foot down, and needed some support to push off with the foot to get back to a standing position. He was able to get himself back to standing with a cane. Even while standing with his cane, he was kinda wobbly. Mrs. Turnstile steadied him and they turned to leave. She dismissed me by saying, "Thank you for offering to help" as they turned to make their way into their house.
 
 Then Winston and I turned to complete our job. I mentally unpacked what I had seen: 
-<ul><li>An older man (who I knew a tiny bit about from a previous hasty introduction a couple of years ago; he had a very authoritative and respectable job in the community) had fallen and now a stranger and his dog are offering to help him, leaving him a bit embarrassed, perhaps. 
+
+<ul>
+<li>An older man (who I knew a tiny bit about from a previous hasty introduction a couple of years ago; he had a very authoritative and respectable job in the community) had fallen and now a stranger and his dog are offering to help him, leaving him a bit embarrassed, perhaps. 
 <li>A woman who is not strong enough to help him bodily is perhaps also a bit embarrassed at the situation and offers some comments to explain. 
 <li>The man takes the first opportunity to turn his back to me, and never says a word, except for telling his wife what he wants to do, and to ask her to move slightly so he can accomplish his goal. 
-<li>I was thanked for my willingness to help, as a way of saying good bye.</ul>
+<li>I was thanked for my willingness to help, as a way of saying good bye.
+</ul>
+
 
 Yet, it seemed that every action was proper in its own way.
 
