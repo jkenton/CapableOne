@@ -1,5 +1,5 @@
 ---
-title: "Advent Calendar Spoilers"
+title: "Advent Spoilers"
 layout: page
 permalink: spoilers.html
 ---
