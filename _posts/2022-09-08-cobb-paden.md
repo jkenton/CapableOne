@@ -20,7 +20,10 @@ The second scene is later in the movie, and takes place after Hell has broken lo
 
 
 <pre>
-Stella : Cobb's using me to stop you. So good people are being hurt because of me. That makes me mad. Some people think because they're stronger, or meaner, that they can push you around. I've seen a lot of that. But it's only true if you let it be. The world is what you make of it.
+Stella : Cobb's using me to stop you. So good people are being hurt because 
+of me. That makes me mad. Some people think because they're stronger, or 
+meaner, that they can push you around. I've seen a lot of that. But it's only 
+true if you let it be. The world is what you make of it.
 
 Paden : I like your attitude. But it can be risky.
 
