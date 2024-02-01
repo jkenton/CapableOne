@@ -18,7 +18,8 @@ There are two scenes in Silverado, both involving conversations with Paden and a
 
 The second scene is later in the movie, and takes place after Hell has broken loose in town. Cobb is on a rampage for one reason or another (probably because his shady empire is closing in on him, and he has desperately few remaining friends). Lots of people are newly-hurt as well as the many folks who have been hurt previously. Stella and Paden are in the saloon:
 
-```
+
+<pre>
 Stella : Cobb's using me to stop you. So good people are being hurt because of me. That makes me mad. Some people think because they're stronger, or meaner, that they can push you around. I've seen a lot of that. But it's only true if you let it be. The world is what you make of it.
 
 Paden : I like your attitude. But it can be risky.
@@ -28,7 +29,9 @@ Stella : I'm ready for that. What about you?
 Paden : [heavy sigh]  I don't want you to get hurt.
 
 Stella : He can't hurt me... if he's dead.
-```
+</pre>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IxCMUUU9LDU?si=bUKkdAYOAtssImuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
