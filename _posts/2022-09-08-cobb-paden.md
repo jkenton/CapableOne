@@ -15,7 +15,6 @@ There are two scenes in Silverado, both involving conversations with Paden and a
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxCMUUU9LDU?si=bUKkdAYOAtssImuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The second scene is later in the movie, and takes place after Hell has broken loose in town. Cobb is on a rampage for one reason or another (probably because his shady empire is closing in on him, and he has desperately few remaining friends). Lots of people are newly-hurt as well as the many folks who have been hurt previously. Stella and Paden are in the saloon:
 
@@ -30,6 +29,10 @@ Paden : [heavy sigh]  I don't want you to get hurt.
 
 Stella : He can't hurt me... if he's dead.
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxCMUUU9LDU?si=bUKkdAYOAtssImuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 And then soon thereafter, Cobb and Paden are in the street ready to draw down on one another. And Paden says more than this, but importantly, he says "Cobb, you've got nothing I need" before they both fire, and Cobb drops dead.
 
