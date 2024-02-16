@@ -26,20 +26,20 @@ comments: true
 There are A LOT OF MOVIES from which to choose. Quoting from wikipedia: "In 1988, Seagal made his acting debut in *Above the Law*. By 1991, he had starred in four films." By my count, there are nearly 60 films and two TV series (*Steven Seagal: Lawman* and *True Justice*) that feature him. 
 
 A person could, if they chose to, feature just the award-nominated movies from the Pantheon of Seagal:
-- On Deadly Ground
-- Executive Decision
-- Fire Down Below
-- Half Past Dead
+- *On Deadly Ground*
+- *Executive Decision*
+- *Fire Down Below*
+- *Half Past Dead*
 
 
 Or the ones where Seagal played at least three of the four role types (Director, Producer, Writer, Actor)
-- Above the Law
-- On Deadly Ground
-- Shado Man
-- Attack Force
-- Kill Switch
-- The Keeper
-- Born to Raise Hell
-- Attrition
+- *Above the Law*
+- *On Deadly Ground*
+- *Shadow Man*
+- *Attack Force*
+- *Kill Switch*
+- *The Keeper*
+- *Born to Raise Hell*
+- *Attrition*
 
-So, there you have it. 
+So, there you have it. Enjoy. In moderation.
